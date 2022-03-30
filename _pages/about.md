@@ -8,6 +8,14 @@ redirect_from:
   - /about.html
 ---
 
+My Name is Tatsiana Kulakevich, and I am an Assistant Professor of Instruction in the School of Interdisciplinary Global Studies, Research Fellow and Affiliate Faculty at the Institute on Russia at the University of South Florida.
+
+My research focuses on international political economy, migration, and ethnic politics. My specialties include Comparative Politics, International Relations, Eastern European politics, and Quantitative Methods.
+
+My analyses appeared in media and academic journals, including [The Monkey Cage - Washington Post](https://www.washingtonpost.com/politics/2020/08/08/belarus-president-is-looking-his-sixth-election-victory-he-has-well-used-playbook-win-aug-9/), [The Conversation](https://theconversation.com/belarus-explained-how-europes-last-dictator-could-fall-144711), [The Globe Post](https://theglobepost.com/2019/02/06/belarus-russia-it/), [The New Eastern Europe](https://neweasterneurope.eu/2021/03/09/russia-is-jailing-the-opposition-a-good-way-to-win/), [SAIS Review](https://muse.jhu.edu/article/783885), and [East European Politics and Societies: and Cultures](http://eep.sagepub.com/content/early/2014/06/16/0888325414535429.abstract).
+
+
+
 This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
 A data-driven personal website
