@@ -83,11 +83,11 @@ author:
   name             : "Tatsiana Kulakevich"
   avatar           : "headshot.png"
   bio              : "Assistant Professor of Instruction in the School of Interdisciplinary Global Studies, Research Fellow and Affiliate Faculty at the Institute on Russia at the University of South Florida"
-  location         : "Location"
+  location         : 
   employer         :
   pubmed           : 
   googlescholar    : 
-  email            :
+  email            : "tkulakevich@usf.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
