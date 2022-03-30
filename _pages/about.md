@@ -1,3 +1,12 @@
+---
+permalink: /
+excerpt: "About me"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
 My Name is Tatsiana Kulakevich, and I am an Assistant Professor of Instruction in the School of Interdisciplinary Global Studies, Research Fellow and Affiliate Faculty at the Institute on Russia at the University of South Florida.
 
 My research focuses on international political economy, migration, and ethnic politics. My specialties include Comparative Politics, International Relations, Eastern European politics, and Quantitative Methods.
