@@ -11,10 +11,10 @@ redirect_from:
 
 Education
 ======
-* Rutgers University, NJ, Ph.D., Political Science, 2018 (October)       
-* New York University, NY, M.A., International Relations, 2011                     
-* Rider University, NJ, B.A., History and Multicultural Studies, summa cum laude, 2008                                                                                                                                                                         
-* Belarusian State Pedagogical University, Three years of undergraduate study, 2001-2004 
+* Ph.D. in Political Science, Rutgers University, NJ, 2018 (October)       
+* M.A. in International Relations, New York University, NY, 2011                     
+* B.A. in History and Multicultural Studies,Rider University, NJ, summa cum laude, 2008                                                                                                                                                                         
+* Three years of undergraduate study in History, Belarusian State Pedagogical University, 2001-2004 
 
 Publications
 ======
