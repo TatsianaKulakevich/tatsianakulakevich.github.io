@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D. in Political Science, Rutgers University, NJ, 2018 (October)       
+* Ph.D. in Political Science, Rutgers University, NJ, 2018        
 * M.A. in International Relations, New York University, NY, 2011                     
 * B.A. in History and Multicultural Studies, Rider University, NJ, summa cum laude, 2008                                                                                                                                                                         
 
