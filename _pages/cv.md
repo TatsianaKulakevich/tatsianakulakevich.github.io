@@ -21,13 +21,23 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-  Teaching
+Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-  Grants and Awards
+Conference Participation
+======
+* American Political Science Association Annual Meeting, 2020
+* Southern Political Science Association Annual Meeting, 2019, 2020
+* Midwest Political Science Association Annual Meeting, Chicago, 2015, 2017, 2019
+* United Students of Belarus Annual Meeting, Vilnius, Lithuania, 2016
+* Annual ASN World Convention, New York, 2013, 2015, 2022                                                          
+* Association for Slavic, Eastern European & Eurasian Studies Annual Convention, 2012, 2013
+* Austrian Cultural Forum conference, New York, 2012    
+ 
+Grants and Awards
 ======
 * Research One grant, University of South Florida, to promote research-related activities and events, Fall 2021
 * Research One grant, University of South Florida, to promote research-related activities and events, Fall 2019
