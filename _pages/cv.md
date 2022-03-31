@@ -27,6 +27,19 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
+Work Experience
+======
+* August 2020 - present: Assistant Professor of Instruction
+  * University of South Florida
+* August 2020 - present: AResearch fellow at USF Institute on Russia
+  * University of South Florida
+* August 2018 - July 2020: Visiting Assistant Professor
+  * University of South Florida
+* September 2014 - May 2020: Adjunct Professor
+  * Rutgers University
+* September 2014 - May 2020: Teaching Assistant
+  * Rutgers University
+  
 Conference Participation
 ======
 * American Political Science Association Annual Meeting, 2020
