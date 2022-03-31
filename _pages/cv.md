@@ -52,9 +52,9 @@ Grants and Awards
 
 Professional Service
 ======
- * Board member: *SN Social Sciences} multi- and interdisciplinary peer-reviewed academic research journal.
+ * Board member: SN Social Sciences multi- and interdisciplinary peer-reviewed academic research journal.
 
- * Reviewer: *East European Politics, Societies, and Cultures; Journal of Belarusian Studies; The Journal of Eurasian Studies; Government and Opposition; Canadian Slavonic Papers                                                                                                                                                                                                                                                                                                                                                       }      
+ * Reviewer: East European Politics, Societies, and Cultures; Journal of Belarusian Studies; The Journal of Eurasian Studies; Government and Opposition; Canadian Slavonic Papers                                                                                                                                                                                                                                                                                                                                                       }      
   
 Skills
 ======
