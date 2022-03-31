@@ -13,8 +13,7 @@ Education
 ======
 * Ph.D. in Political Science, Rutgers University, NJ, 2018 (October)       
 * M.A. in International Relations, New York University, NY, 2011                     
-* B.A. in History and Multicultural Studies,Rider University, NJ, summa cum laude, 2008                                                                                                                                                                         
-* Three years of undergraduate study in History, Belarusian State Pedagogical University, 2001-2004 
+* B.A. in History and Multicultural Studies, Rider University, NJ, summa cum laude, 2008                                                                                                                                                                         
 
 Publications
 ======
