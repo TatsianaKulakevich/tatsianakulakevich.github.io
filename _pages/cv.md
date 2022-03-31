@@ -48,7 +48,13 @@ Grants and Awards
 * Central European University (Budapest) Grant, Summer 2015                                                                                                                                                                                                                                                                                                       
 * Tuition Incentive Program Award, New York University, 2009-2010, 2010-2011                                    
 * Educational Scholarship, Lubachko Foundation, 2009-2010                                                          
-* Transfer Scholarship, Rider University, 2007-2008      
+* Transfer Scholarship, Rider University, 2007-2008   
+
+Professional Service
+======
+ * Board member: *SN Social Sciences} multi- and interdisciplinary peer-reviewed academic research journal.
+
+ * Reviewer: *East European Politics, Societies, and Cultures; Journal of Belarusian Studies; The Journal of Eurasian Studies; Government and Opposition; Canadian Slavonic Papers                                                                                                                                                                                                                                                                                                                                                       }      
   
 Skills
 ======
