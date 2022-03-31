@@ -31,7 +31,7 @@ Work Experience
 ======
 * August 2020 - present: Assistant Professor of Instruction
   * University of South Florida
-* August 2020 - present: AResearch fellow at USF Institute on Russia
+* August 2020 - present: Research fellow at USF Institute on Russia
   * University of South Florida
 * August 2018 - July 2020: Visiting Assistant Professor
   * University of South Florida
