@@ -17,9 +17,29 @@ Education
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+<strong>Peer-Reviewed Articles and Book Chapters</strong>
+
+Kulakevich, T. and Kubik, J. (forthcoming) "Anti-authoritarian learning: an examination of the prospects for democratization in Belarus based on a study of Polish Solidarity." <em>Nationalities Papers.</em>
+
+Kulakevich, T. and Kazharski, A., Lozka, K. (forthcoming). "Belarus-Ukraine Relations." In Umland, A. (ed.) <em>Ukraine in East-Central Europe: Kyiv’s Bilateral Relations and Prospects of Multilateralism in the Region.</em> Ibidem Press.
+
+Kulakevich, T. and Augsburger, A. 2021. ["Contested Elections, Protest, and Regime Stability: Comparing Belarus and Bolivia."](https://www.tandfonline.com/doi/abs/10.1080/00085006.2021.1991744) <em>Canadian Slavonic Papers,</em> 63(3-4): 316-337.
+
+Kulakevich, T. (published online 1 June 2021) ["Courting Diaspora for FDI: The Conditional Nature of Diaspora Engagement Policies."](https://onlinelibrary.wiley.com/doi/10.1111/imig.12881?af=R) <em>International Migration.</em>
+
+Kulakevich, T. 2020. ["National Awakening in Belarus: Elite Ideology to ‘Nation’ Practice."](https://muse.jhu.edu/article/783885/pdf) <em>SAIS Review of International Affairs,</em> 40(2): 97-110.
+
+Kulakevich, T. 2018. "Belarus in the Congressional Record, 1873-1994." Journal of Belarusian Studies, 8(2): 32-46.
+
+Kulakevich, T. and Charnysh, V. 2017. "Political Parties in Belarus." In Kosowska-Gastol & Borowiec (eds.) Organizational Structures of Political Parties in Central and Eastern European Countries. Jagiellonian University and Pedagogical University in Krakow.
+
+Kulakevich, T., 2014. "Twenty Years in the Making: Understanding the Difficulty for Change in Belarus." East European Politics and Societies, and Cultures, 28(4): 887-901.
+
+<strong>Book Reviews, Translations, Editing</strong>
+
+Kulakevich, T. (forthcoming). Review of R. Hervouet’s "A Taste for Oppression: Political Ethnog- raphy of Everyday Life in Belarus”. Canadian Slavonic Papers.
+Kulakevich, T. 2016. Review of M. Balmaceda’s "Living the High Life in Minsk: Russian Energy Rents, Domestic Populism and Belarus’ Impending Crisis High." The Journal of Eurasian Studies, 7(2):220.
+Kipel Z. 2014. "Development of Book Studies in Belarus," 1917-1935 (T. Kulakevich and V. Er- mashkevish, Trans.). In Belarusian Book in Context of the World Book Culture. Minsk: Medial. pp.123-134.
   
 Media Analyses
 ======
