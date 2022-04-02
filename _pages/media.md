@@ -7,11 +7,10 @@ redirect_from:
 ---
 
 {% include base_path %} 
- <p><a href=https://theconversation.com/3-reasons-belarus-is-helping-russia-wage-war-against-ukraine-177984>
-	  "3 reasons Belarus is helping Russia wage war against Ukraine."</a> <i>The Conversation</i>, March 3, 2022.</p>
 
- <p><a href=https://theconversation.com/5-things-to-know-about-why-russia-might-invade-ukraine-and-why-the-us-is-involved-175371>
-	  "5 things to know about why Russia might invade Ukraine – and why the US is involved."</a> <i>The Conversation</i>, January 21, 2022.</p>
+[3 reasons Belarus is helping Russia wage war against Ukraine.](https://theconversation.com/3-reasons-belarus-is-helping-russia-wage-war-against-ukraine-177984) <em>The Conversation</em>, March 3, 2022.
+
+[5 things to know about why Russia might invade Ukraine – and why the US is involved.](https://theconversation.com/5-things-to-know-about-why-russia-might-invade-ukraine-and-why-the-us-is-involved-175371) <em>The Conversation</em>, January 21, 2022.
 
  <p><a href=https://theconversation.com/trouble-on-the-belarus-poland-border-what-you-need-to-know-about-the-migrant-crisis-manufactured-by-belarus-leader-172108>
 	  "Trouble on the Belarus-Poland border: What you need to know about the migrant crisis manufactured by Belarus’ leader."</a> <i>The Conversation</i>, November 18, 2021.</p>
