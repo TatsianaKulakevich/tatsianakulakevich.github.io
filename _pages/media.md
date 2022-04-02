@@ -12,20 +12,15 @@ redirect_from:
 
 [5 things to know about why Russia might invade Ukraine – and why the US is involved.](https://theconversation.com/5-things-to-know-about-why-russia-might-invade-ukraine-and-why-the-us-is-involved-175371) <em>The Conversation</em>, January 21, 2022.
 
- <p><a href=https://theconversation.com/trouble-on-the-belarus-poland-border-what-you-need-to-know-about-the-migrant-crisis-manufactured-by-belarus-leader-172108>
-	  "Trouble on the Belarus-Poland border: What you need to know about the migrant crisis manufactured by Belarus’ leader."</a> <i>The Conversation</i>, November 18, 2021.</p>
+[Trouble on the Belarus-Poland border: What you need to know about the migrant crisis manufactured by Belarus’ leader.](https://theconversation.com/trouble-on-the-belarus-poland-border-what-you-need-to-know-about-the-migrant-crisis-manufactured-by-belarus-leader-172108) <em>The Conversation</em>, November 18, 2021.
 
-  <p><a href=https://theconversation.com/belarus-plane-hijacking-snarls-bidens-hopes-to-repair-strained-us-russia-relationship-161969?fbclid=IwAR0M0QCrBxnOIPCmKoVoc5gkyTCwOjNYWmlGBJk9NoVXP8FfDllB2pXnuGw>
-	  "Belarus plane hijacking snarls Biden’s hopes to repair strained US-Russia relationship."</a> <i>The Conversation</i>, June 3, 2021.</p>	
+[Belarus plane hijacking snarls Biden’s hopes to repair strained US-Russia relationship.](https://theconversation.com/belarus-plane-hijacking-snarls-bidens-hopes-to-repair-strained-us-russia-relationship-161969?fbclid=IwAR0M0QCrBxnOIPCmKoVoc5gkyTCwOjNYWmlGBJk9NoVXP8FfDllB2pXnuGw) <em>The Conversation</em>, June 3, 2021.	
 	
-  <p><a href=https://neweasterneurope.eu/2021/03/09/russia-is-jailing-the-opposition-a-good-way-to-win/>
-	  "Russia: Is jailing the opposition a good way to win?"</a> <i>The New Eastern Europe</i>, March 9, 2021.</p>	
+[Russia: Is jailing the opposition a good way to win?](https://neweasterneurope.eu/2021/03/09/russia-is-jailing-the-opposition-a-good-way-to-win/) <em>The New Eastern Europe</em>, March 9, 2021.	
 	
-  <p><a href=https://theconversation.com/belarus-embattled-leader-secretly-inaugurated-himself-sparking-new-protests-and-global-backlash-146910>
-	  "Belarus’ embattled leader secretly inaugurated himself, sparking new protests and global backlash."</a> <i>The Conversation</i>, September 28, 2020.</p>
+[Belarus’ embattled leader secretly inaugurated himself, sparking new protests and global backlash.](https://theconversation.com/belarus-embattled-leader-secretly-inaugurated-himself-sparking-new-protests-and-global-backlash-146910) <em>The Conversation</em>, September 28, 2020.
 	
-  <p><a href=https://theconversation.com/belarus-explained-how-europes-last-dictator-could-fall-144711/>
-	  "Belarus, explained: How Europe’s last dictator could fall."</a> <i>The Conversation</i>, August 20, 2020.</p>
+[Belarus, explained: How Europe’s last dictator could fall.](https://theconversation.com/belarus-explained-how-europes-last-dictator-could-fall-144711/) <em>The Conversation</em>, August 20, 2020.
 			
   <p><a href=https://www.washingtonpost.com/politics/2020/08/08/belarus-president-is-looking-his-sixth-election-victory-he-has-well-used-playbook-win-aug-9/>
 	  "Belarus’s president looks for his sixth election victory on Sunday. He has a well-used playbook to win."</a> <i>The Washington Post (The Monkey Cage)</i>, August 8, 2020.</p>
