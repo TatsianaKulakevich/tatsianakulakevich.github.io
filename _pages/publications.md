@@ -1,8 +1,7 @@
 ---
 title: "Publications"
 permalink: /publications/
-venue: "UC San Francisco, Department of Testing"
-date: 2012-03-01
+
 ---
 
 <strong>Peer-Reviewed Articles and Book Chapters</strong>
