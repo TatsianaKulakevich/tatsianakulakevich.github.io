@@ -21,6 +21,9 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
+Media Analyses
+======
+
 Teaching
 ======
   <strong>University of South Florida</strong> 
