@@ -36,20 +36,18 @@ redirect_from:
 	
 [Why would authoritarian Belarus liberalize cryptocurrencies?](https://www.washingtonpost.com/news/monkey-cage/wp/2018/01/25/why-would-authoritarian-belarus-liberalize-cryptocurrencies/?utm_term=.5792ebbe8d9f) <em>The Washington Post (The Monkey Cage)</em>, January 25, 2018.
 	
-   <p><a href=https://belarusdigest.com/story/quality-of-gender-equality-in-belarus/>“Quality of Gender Equality in Belarus,” </a>  <i>Belarus Digest</i>, 5 January, 2016.</p>
+[Quality of Gender Equality in Belarus.](https://belarusdigest.com/story/quality-of-gender-equality-in-belarus/)<em>Belarus Digest</em>, 5 January, 2016.
 
-   <p><a href=https://belarusdigest.com/story/humanism-or-political-calculation-why-did-lukashenka-pardon-political-prisoners/>“Humanism or Political Calculation: Why Did 
-   Lukashenka Pardon Political Prisoners?”</a> <i>Belarus Digest</i>, 24 August, 2015.</p>
+[Humanism or Political Calculation: Why Did Lukashenka Pardon Political Prisoners?](https://belarusdigest.com/story/humanism-or-political-calculation-why-did-lukashenka-pardon-political-prisoners/)<em>Belarus Digest</em>, 24 August, 2015.
 
-   <p><a href=https://udf.name/english/featured-stories/126573-belarus-eu-thaw-will-it-last-this-time.html>“Belarus-EU Thaw: Will It Last This Time?”</a> <i>Belarus Digest</i>, 31 July, 2015.</p>
+[Belarus-EU Thaw: Will It Last This Time?](https://udf.name/english/featured-stories/126573-belarus-eu-thaw-will-it-last-this-time.html) <em>Belarus Digest</em>, 31 July, 2015.
 
-   <p><a href=https://www.washingtonpost.com/blogs/monkey-cage/wp/2015/07/15/belaruss-president-has-scheduled-the-next-election-has-he-already-won-his-fifth-term/>“Belarus’s 
-	   President Has Scheduled the Next Election. Has He Already Won His Fifth Term?” </a> <i>The Washington Post (The Monkey Cage)</i>, July 15, 2015.</p>
+[Belarus’s President Has Scheduled the Next Election. Has He Already Won His Fifth Term?](https://www.washingtonpost.com/blogs/monkey-cage/wp/2015/07/15/belaruss-president-has-scheduled-the-next-election-has-he-already-won-his-fifth-term/) <em>The Washington Post (The Monkey Cage)</em>, July 15, 2015.
 
-   <p><a href=https://belarusdigest.com/story/investment-climate-in-belarus-room-for-growth/>“Investment Climate in Belarus: Room For Growth”, </a> <i>Belarus Digest</i>, 10 July, 2015.</p>
+[Investment Climate in Belarus: Room For Growth.](https://belarusdigest.com/story/investment-climate-in-belarus-room-for-growth/) <em>Belarus Digest</em>, 10 July, 2015.
 
-   <p><a href=https://belarusdigest.com/story/political-parties-in-belarus-do-they-really-matter/>“Political Parties in Belarus: Do They Really Matter?” </a><i>Belarus Digest</i>, 16 June, 2015.</p>
+[Political Parties in Belarus: Do They Really Matter?] (https://belarusdigest.com/story/political-parties-in-belarus-do-they-really-matter/)<em>Belarus Digest</em>, 16 June, 2015.
 
-   <p><a href=https://belarusdigest.com/story/sanctions-peace-talks-bologna-process-is-there-hope-for-change/>“Sanctions, Peace Talks, Bologna Process: Is There Hope for Change?”</a> <i>Belarus Digest</i>, 18 May, 2015.</p>
+[Sanctions, Peace Talks, Bologna Process: Is There Hope for Change?](https://belarusdigest.com/story/sanctions-peace-talks-bologna-process-is-there-hope-for-change/) <em>Belarus Digest</em>, 18 May, 2015.
 
-   <p><a href=https://belarusdigest.com/story/the-ice-world-hockey-championship-as-a-tool-for-propaganda/>“The Ice World Hockey Championship As A Tool For Propaganda.”</a> <i>Belarus Digest</i>, 12 June, 2014.</p>
+[The Ice World Hockey Championship As A Tool For Propaganda.](https://belarusdigest.com/story/the-ice-world-hockey-championship-as-a-tool-for-propaganda/) <em>Belarus Digest</em>, 12 June, 2014.
