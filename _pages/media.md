@@ -22,24 +22,19 @@ redirect_from:
 	
 [Belarus, explained: How Europe’s last dictator could fall.](https://theconversation.com/belarus-explained-how-europes-last-dictator-could-fall-144711/) <em>The Conversation</em>, August 20, 2020.
 			
-  <p><a href=https://www.washingtonpost.com/politics/2020/08/08/belarus-president-is-looking-his-sixth-election-victory-he-has-well-used-playbook-win-aug-9/>
-	  "Belarus’s president looks for his sixth election victory on Sunday. He has a well-used playbook to win."</a> <i>The Washington Post (The Monkey Cage)</i>, August 8, 2020.</p>
+[Belarus’s president looks for his sixth election victory on Sunday. He has a well-used playbook to win.](https://www.washingtonpost.com/politics/2020/08/08/belarus-president-is-looking-his-sixth-election-victory-he-has-well-used-playbook-win-aug-9/)<em>The Washington Post (The Monkey Cage)</em>, August 8, 2020.
 	
-   <p><a href=https://www.washingtonpost.com/politics/2020/04/21/belarus-government-is-largely-ignoring-pandemic-heres-why/>"The Belarus 
-	   government is largely ignoring the pandemic. Here’s why."</a><i>The Washington Post (The Monkey Cage)</i>, April 21, 2020.</p>
+[The Belarus government is largely ignoring the pandemic. Here’s why.](https://www.washingtonpost.com/politics/2020/04/21/belarus-government-is-largely-ignoring-pandemic-heres-why/)<em>The Washington Post (The Monkey Cage)</em>, April 21, 2020.
 	
-   <p><a href=https://theglobepost.com/2020/01/31/us-belarus-ties/>"Pompeo to Visit Minsk: Why Is the US Defrosting Ties With Belarus?"</a><i>The Globe Post</i>, January 31, 2020.</p>
+[Pompeo to Visit Minsk: Why Is the US Defrosting Ties With Belarus?](https://theglobepost.com/2020/01/31/us-belarus-ties/)<em>The Globe Post</em>, January 31, 2020.
 	
-   <p><a href=http://jordanrussiacenter.org/news/belarus-and-the-u-s-decided-to-restore-ties-after-11-years-of-frozen-relations-heres-why/#.Xg1I-S2ZOgQ/>"Belarus and the U.S. 
-	   Decided to Restore Ties After 11 years of 'Frozen' Relations. Here’s Why."</a><i>NYU Jordan Center for the Advanced Study of Russia</i>, October 16, 2019.</p>
+[Belarus and the U.S. Decided to Restore Ties After 11 years of 'Frozen' Relations. Here’s Why.](http://jordanrussiacenter.org/news/belarus-and-the-u-s-decided-to-restore-ties-after-11-years-of-frozen-relations-heres-why/#.Xg1I-S2ZOgQ/)<em>NYU Jordan Center for the Advanced Study of Russia</em>, October 16, 2019.
 	
-   <p><a href=https://theglobepost.com/2019/02/06/belarus-russia-it/>"Will Belarus’ IT Strategy Loosen Russia’s Tightening Grip?"</a> <i>The Globe Post</i>, February 6, 2019.</p>
+[Will Belarus’ IT Strategy Loosen Russia’s Tightening Grip?](https://theglobepost.com/2019/02/06/belarus-russia-it/) <em>The Globe Post</em>, February 6, 2019.
 	
-   <p><a href=https://www.washingtonpost.com/news/monkey-cage/wp/2018/08/15/why-is-belarus-cracking-down-on-independent-journalists-and-the-internet/?utm_term=.b65f7f9133e0>"Why is 
-	   Belarus cracking down on independent journalists — and the Internet?"</a> <i>The Washington Post (The Monkey Cage)</i>, August 15, 2018.</p>
+[Why is Belarus cracking down on independent journalists — and the Internet?](https://www.washingtonpost.com/news/monkey-cage/wp/2018/08/15/why-is-belarus-cracking-down-on-independent-journalists-and-the-internet/?utm_term=.b65f7f9133e0) <em>The Washington Post (The Monkey Cage)</em>, August 15, 2018.
 	
-   <p><a href=https://www.washingtonpost.com/news/monkey-cage/wp/2018/01/25/why-would-authoritarian-belarus-liberalize-cryptocurrencies/?utm_term=.5792ebbe8d9f>"Why would authoritarian Belarus 
-	 liberalize cryptocurrencies?"</a> <i>The Washington Post (The Monkey Cage)</i>, January 25, 2018.</p>
+[Why would authoritarian Belarus liberalize cryptocurrencies?](https://www.washingtonpost.com/news/monkey-cage/wp/2018/01/25/why-would-authoritarian-belarus-liberalize-cryptocurrencies/?utm_term=.5792ebbe8d9f) <em>The Washington Post (The Monkey Cage)</em>, January 25, 2018.
 	
    <p><a href=https://belarusdigest.com/story/quality-of-gender-equality-in-belarus/>“Quality of Gender Equality in Belarus,” </a>  <i>Belarus Digest</i>, 5 January, 2016.</p>
 
