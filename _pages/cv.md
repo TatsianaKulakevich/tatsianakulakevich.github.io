@@ -37,7 +37,9 @@ Teaching
 * Undergraduate
   * <strong>790:300</strong>: Introduction to Political Science Methods, <em>Fall 2015, Spring 2016, Fall 2016, Spring 2017, Summer 2017, Fall 2017, Spring 2018.
   * <strong>790:101</strong>: Nature of Politics, <em>Spring 2017</em>
-  * <strong>790:102</strong>: Introduction to International Relations, <em>Fall 2017, Spring 2016. 790:103: Introduction to Comparative Politics, Fall 2013, Spring 2014. 790:106: Law and Politics, Spring 2018.</em>
+  * <strong>790:102</strong>: Introduction to International Relations, <em>Fall 2017, Spring 2016</em>
+  * <strong>790:103</strong>: Introduction to Comparative Politics, <em>Fall 2013, Spring 2014</em> 
+  * <strong>790:106</strong>: Law and Politics, <em>Spring 2018.</em>
   
 Work Experience
 ======
