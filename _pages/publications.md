@@ -1,5 +1,5 @@
 ---
-title: "Talk 1 on Relevant Topic in Your Field"
+title: "Publications"
 permalink: /publications/
 venue: "UC San Francisco, Department of Testing"
 date: 2012-03-01
