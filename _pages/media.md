@@ -46,7 +46,7 @@ redirect_from:
 
 [Investment Climate in Belarus: Room For Growth.](https://belarusdigest.com/story/investment-climate-in-belarus-room-for-growth/) <em>Belarus Digest</em>, 10 July, 2015.
 
-[Political Parties in Belarus: Do They Really Matter?] (https://belarusdigest.com/story/political-parties-in-belarus-do-they-really-matter/) <em>Belarus Digest</em>, 16 June, 2015.
+[Political Parties in Belarus: Do They Really Matter?](https://belarusdigest.com/story/political-parties-in-belarus-do-they-really-matter/) <em>Belarus Digest</em>, 16 June, 2015.
 
 [Sanctions, Peace Talks, Bologna Process: Is There Hope for Change?](https://belarusdigest.com/story/sanctions-peace-talks-bologna-process-is-there-hope-for-change/) <em>Belarus Digest</em>, 18 May, 2015.
 
