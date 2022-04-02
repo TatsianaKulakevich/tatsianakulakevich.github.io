@@ -79,7 +79,7 @@ Professional Service
 ======
  * Board member: <em>SN Social Sciences multi- and interdisciplinary peer-reviewed academic research journal.</em>
 
- * Reviewer: <em>East European Politics, Societies, and Cultures; Journal of Belarusian Studies; The Journal of Eurasian Studies; Government and Opposition; Canadian Slavonic Papers. </em>                                                                                                                                                                                                                                                                                                                                                          
+ * Reviewer: <em>East European Politics, Societies, and Cultures; Journal of Belarusian Studies; The Journal of Eurasian Studies; Government and Opposition; Canadian Slavonic Papers.</em>                                                                                                                                                                                                                                                                                                                                                          
   
 Skills
 ======
