@@ -22,13 +22,13 @@ redirect_from:
 	
 [Belarus, explained: How Europe’s last dictator could fall.](https://theconversation.com/belarus-explained-how-europes-last-dictator-could-fall-144711/) <em>The Conversation</em>, August 20, 2020.
 			
-[Belarus’s president looks for his sixth election victory on Sunday. He has a well-used playbook to win.](https://www.washingtonpost.com/politics/2020/08/08/belarus-president-is-looking-his-sixth-election-victory-he-has-well-used-playbook-win-aug-9/)<em>The Washington Post (The Monkey Cage)</em>, August 8, 2020.
+[Belarus’s president looks for his sixth election victory on Sunday. He has a well-used playbook to win.](https://www.washingtonpost.com/politics/2020/08/08/belarus-president-is-looking-his-sixth-election-victory-he-has-well-used-playbook-win-aug-9/) <em>The Washington Post (The Monkey Cage)</em>, August 8, 2020.
 	
-[The Belarus government is largely ignoring the pandemic. Here’s why.](https://www.washingtonpost.com/politics/2020/04/21/belarus-government-is-largely-ignoring-pandemic-heres-why/)<em>The Washington Post (The Monkey Cage)</em>, April 21, 2020.
+[The Belarus government is largely ignoring the pandemic. Here’s why.](https://www.washingtonpost.com/politics/2020/04/21/belarus-government-is-largely-ignoring-pandemic-heres-why/) <em>The Washington Post (The Monkey Cage)</em>, April 21, 2020.
 	
-[Pompeo to Visit Minsk: Why Is the US Defrosting Ties With Belarus?](https://theglobepost.com/2020/01/31/us-belarus-ties/)<em>The Globe Post</em>, January 31, 2020.
+[Pompeo to Visit Minsk: Why Is the US Defrosting Ties With Belarus?](https://theglobepost.com/2020/01/31/us-belarus-ties/) <em>The Globe Post</em>, January 31, 2020.
 	
-[Belarus and the U.S. Decided to Restore Ties After 11 years of 'Frozen' Relations. Here’s Why.](http://jordanrussiacenter.org/news/belarus-and-the-u-s-decided-to-restore-ties-after-11-years-of-frozen-relations-heres-why/#.Xg1I-S2ZOgQ/)<em>NYU Jordan Center for the Advanced Study of Russia</em>, October 16, 2019.
+[Belarus and the U.S. Decided to Restore Ties After 11 years of 'Frozen' Relations. Here’s Why.](http://jordanrussiacenter.org/news/belarus-and-the-u-s-decided-to-restore-ties-after-11-years-of-frozen-relations-heres-why/#.Xg1I-S2ZOgQ/) <em>NYU Jordan Center for the Advanced Study of Russia</em>, October 16, 2019.
 	
 [Will Belarus’ IT Strategy Loosen Russia’s Tightening Grip?](https://theglobepost.com/2019/02/06/belarus-russia-it/) <em>The Globe Post</em>, February 6, 2019.
 	
@@ -36,9 +36,9 @@ redirect_from:
 	
 [Why would authoritarian Belarus liberalize cryptocurrencies?](https://www.washingtonpost.com/news/monkey-cage/wp/2018/01/25/why-would-authoritarian-belarus-liberalize-cryptocurrencies/?utm_term=.5792ebbe8d9f) <em>The Washington Post (The Monkey Cage)</em>, January 25, 2018.
 	
-[Quality of Gender Equality in Belarus.](https://belarusdigest.com/story/quality-of-gender-equality-in-belarus/)<em>Belarus Digest</em>, 5 January, 2016.
+[Quality of Gender Equality in Belarus.](https://belarusdigest.com/story/quality-of-gender-equality-in-belarus/) <em>Belarus Digest</em>, 5 January, 2016.
 
-[Humanism or Political Calculation: Why Did Lukashenka Pardon Political Prisoners?](https://belarusdigest.com/story/humanism-or-political-calculation-why-did-lukashenka-pardon-political-prisoners/)<em>Belarus Digest</em>, 24 August, 2015.
+[Humanism or Political Calculation: Why Did Lukashenka Pardon Political Prisoners?](https://belarusdigest.com/story/humanism-or-political-calculation-why-did-lukashenka-pardon-political-prisoners/) <em>Belarus Digest</em>, 24 August, 2015.
 
 [Belarus-EU Thaw: Will It Last This Time?](https://udf.name/english/featured-stories/126573-belarus-eu-thaw-will-it-last-this-time.html) <em>Belarus Digest</em>, 31 July, 2015.
 
@@ -46,7 +46,7 @@ redirect_from:
 
 [Investment Climate in Belarus: Room For Growth.](https://belarusdigest.com/story/investment-climate-in-belarus-room-for-growth/) <em>Belarus Digest</em>, 10 July, 2015.
 
-[Political Parties in Belarus: Do They Really Matter?] (https://belarusdigest.com/story/political-parties-in-belarus-do-they-really-matter/)<em>Belarus Digest</em>, 16 June, 2015.
+[Political Parties in Belarus: Do They Really Matter?] (https://belarusdigest.com/story/political-parties-in-belarus-do-they-really-matter/) <em>Belarus Digest</em>, 16 June, 2015.
 
 [Sanctions, Peace Talks, Bologna Process: Is There Hope for Change?](https://belarusdigest.com/story/sanctions-peace-talks-bologna-process-is-there-hope-for-change/) <em>Belarus Digest</em>, 18 May, 2015.
 
