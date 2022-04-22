@@ -8,6 +8,8 @@ redirect_from:
 
 {% include base_path %} 
 
+[The politicization of the Belarusian diaspora.](https://www.eurozine.com/the-politicization-of-the-belarusian-diaspora/?fbclid=IwAR1C07IIVKMeBru-X6bd12Uo28ai2rPOSDZ12PnCBUAXmg8ahBl4PvAj9jk)<em>Eurozine (in German also in [dekoder](https://www.dekoder.org/de/gnose/belarus-diaspora-migration-geschichte))</em>, April 20, 2022.
+
 [3 reasons Belarus is helping Russia wage war against Ukraine.](https://theconversation.com/3-reasons-belarus-is-helping-russia-wage-war-against-ukraine-177984) <em>The Conversation</em>, March 3, 2022.
 
 [5 things to know about why Russia might invade Ukraine – and why the US is involved.](https://theconversation.com/5-things-to-know-about-why-russia-might-invade-ukraine-and-why-the-us-is-involved-175371) <em>The Conversation</em>, January 21, 2022.
