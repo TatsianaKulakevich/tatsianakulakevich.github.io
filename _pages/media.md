@@ -8,6 +8,8 @@ redirect_from:
 
 {% include base_path %} 
 
+[4 things to know about Moldova and Transnistria – and why Russia’s war may spread beyond Ukraine to reach them soon.](https://theconversation.com/4-things-to-know-about-moldova-and-transnistria-and-why-russias-war-may-spread-beyond-ukraine-to-reach-them-soon-182030#comment_2781265) <em>The Conversation</em>, April 27, 2022.
+
 [The politicization of the Belarusian diaspora.](https://www.eurozine.com/the-politicization-of-the-belarusian-diaspora/?fbclid=IwAR1C07IIVKMeBru-X6bd12Uo28ai2rPOSDZ12PnCBUAXmg8ahBl4PvAj9jk) <em>Eurozine (in German also in [dekoder](https://www.dekoder.org/de/gnose/belarus-diaspora-migration-geschichte))</em>, April 20, 2022.
 
 [3 reasons Belarus is helping Russia wage war against Ukraine.](https://theconversation.com/3-reasons-belarus-is-helping-russia-wage-war-against-ukraine-177984) <em>The Conversation</em>, March 3, 2022.
