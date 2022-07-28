@@ -8,7 +8,7 @@ permalink: /publications/
 
 Kulakevich, T. and Kazharski, A., Lozka, K. (forthcoming) "Belarus-Ukraine Relations." In Umland, A. (ed.) <em>Ukraine in East-Central Europe: Kyiv’s Bilateral Relations and Prospects of Multilateralism in the Region.</em> Ibidem Press.
 
-Kulakevich, T. and Kubik, J. (published online on July 27, 2022) ["Anti-authoritarian learning: an examination of the prospects for democratization in Belarus based on a study of Polish Solidarity."](https://www.cambridge.org/core/journals/nationalities-papers/article/antiauthoritarian-learning-prospects-for-democratization-in-belarus-based-on-a-study-of-polish-solidarity/0B05C923250A86C3E8AAB7E27F3542FA) <em>Nationalities Papers.</em>
+Kulakevich, T. and Kubik, J. (published online on July 27, 2022) ["Anti-authoritarian Learning: Prospects for Democratization in Belarus Based on a Study of Polish Solidarity."](https://www.cambridge.org/core/journals/nationalities-papers/article/antiauthoritarian-learning-prospects-for-democratization-in-belarus-based-on-a-study-of-polish-solidarity/0B05C923250A86C3E8AAB7E27F3542FA) <em>Nationalities Papers.</em>
 
 Kulakevich, T. 2022. ["Courting Diaspora for FDI: The Conditional Nature of Diaspora Engagement Policies."](https://onlinelibrary.wiley.com/doi/10.1111/imig.12881?af=R) <em>International Migration.</em> 60(3): 3-19.
 
