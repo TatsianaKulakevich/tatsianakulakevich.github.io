@@ -46,6 +46,9 @@ Kipel Z. 2014. "Development of Book Studies in Belarus," 1917-1935 (T. Kulakevic
   
 Media Analyses
 ======
+[Russia plans to annex parts of Eastern Ukraine – an Eastern European expert explains 3 key things to know about the regions at stake.](https://theconversation.com/russia-plans-to-annex-parts-of-eastern-ukraine-an-eastern-european-expert-explains-3-key-things-to-know-about-the-regions-at-stake-191482)<em>The Conversation</em>, September 29, 2022.
+
+
 [4 things to know about Moldova and Transnistria – and why Russia’s war may spread beyond Ukraine to reach them soon.](https://theconversation.com/4-things-to-know-about-moldova-and-transnistria-and-why-russias-war-may-spread-beyond-ukraine-to-reach-them-soon-182030#comment_2781265) <em>The Conversation</em>, April 27, 2022.
 
 [The politicization of the Belarusian diaspora.](https://www.eurozine.com/the-politicization-of-the-belarusian-diaspora/?fbclid=IwAR1C07IIVKMeBru-X6bd12Uo28ai2rPOSDZ12PnCBUAXmg8ahBl4PvAj9jk) <em>Eurozine (in German also in [dekoder](https://www.dekoder.org/de/gnose/belarus-diaspora-migration-geschichte))</em>, April 20, 2022.
