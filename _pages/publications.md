@@ -13,9 +13,9 @@ Kulakevich, T. and Kubik, J. (published online on July 27, 2022) ["Anti-Authorit
 
 Kulakevich, T. 2022. ["Courting Diaspora for FDI: The Conditional Nature of Diaspora Engagement Policies."](https://onlinelibrary.wiley.com/doi/10.1111/imig.12881?af=R) <em>International Migration.</em> 60(3): 3-19.
 
-Kulakevich, T. and Augsburger, A. 2021. ["Contested Elections, Protest, and Regime Stability: Comparing Belarus and Bolivia."](https://www.tandfonline.com/doi/abs/10.1080/00085006.2021.1991744) <em>Canadian Slavonic Papers,</em> 63(3-4): 316-337.
+Kulakevich, T. and Augsburger, A. 2021. ["Contested Elections, Protest, and Regime Stability: Comparing Belarus and Bolivia."](https://www.tandfonline.com/doi/abs/10.1080/00085006.2021.1991744) <em>Canadian Slavonic Papers,</em> 63(3-4): 316-337. (Received an International Congress for Belarusian Studies award for the best scientific publication in 2021 in Social and Political sciences)
 
-Kulakevich, T. 2020. ["National Awakening in Belarus: Elite Ideology to ‘Nation’ Practice."](https://muse.jhu.edu/article/783885/pdf) <em>SAIS Review of International Affairs,</em> 40(2): 97-110.
+Kulakevich, T. 2020. ["National Awakening in Belarus: Elite Ideology to ‘Nation’ Practice."](https://muse.jhu.edu/article/783885/pdf) <em>SAIS Review of International Affairs,</em> 40(2): 97-110. (Received an International Congress for Belarusian Studies award for the best scientific publication in 2020 in Social and Political sciences)
 
 Kulakevich, T. 2018. ["Belarus in the Congressional Record, 1873-1994."](https://brill.com/view/journals/bela/8/2/article-p32_3.xml) <em>Journal of Belarusian Studies,</em> 8(2): 32-46.
 
