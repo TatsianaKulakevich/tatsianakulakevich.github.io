@@ -158,7 +158,7 @@ Professional Service
 ======
  * Board member: <em>SN Social Sciences multi- and interdisciplinary peer-reviewed academic research journal.</em>
 
- * Reviewer: <em>East European Politics, Societies, and Cultures; Journal of Belarusian Studies; The Journal of Eurasian Studies; Government and Opposition; Canadian Slavonic Papers, SN Social Sciences; Baltic Worlds; Demokratizatsiya: The Journal of Post-Soviet Democratization </em> (published by by the Institute for European, Russian and Eurasian Studies, Elliott School of International Affairs, George Washington University); <em>Rowman & Littlefield</em>   
+ * Reviewer: <em>East European Politics, Societies, and Cultures; Journal of Belarusian Studies; The Journal of Eurasian Studies; Government and Opposition; Canadian Slavonic Papers, SN Social Sciences; Baltic Worlds; Demokratizatsiya: The Journal of Post-Soviet Democratization </em> (published by by the Institute for European, Russian and Eurasian Studies, Elliott School of International Affairs, George Washington University); <em>Rowman & Littlefield, Springer.</em>   
   
  * Webmaster: <em>Political Science Department at Rutgers University</em>, 2016-2018; <em>Institute for Russian, European, and Eurasian Studies at University of South Florida </em>, 2020 - present.                                                                                                                                                                                                                                                                                                                                                        
   
