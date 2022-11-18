@@ -9,7 +9,7 @@ permalink: /publications/
 Kulakevich, T. and Kazharski, A., Lozka, K. (forthcoming) "Belarus-Ukraine Relations." In Umland, A. (ed.) <em>Ukraine in Central and Eastern Europe:
 Kyiv's Foreign Affairs and the International Relations of the Post-Communist Region.</em> Columbia University Press.
 
-Kulakevich, T. and Kubik, J. (published online on July 27, 2022) ["Anti-Authoritarian Learning: Prospects for Democratization in Belarus Based on a Study of Polish Solidarity."](https://www.cambridge.org/core/journals/nationalities-papers/article/antiauthoritarian-learning-prospects-for-democratization-in-belarus-based-on-a-study-of-polish-solidarity/0B05C923250A86C3E8AAB7E27F3542FA) <em>Nationalities Papers.</em>
+Kulakevich, T. and Kubik, J. (published online on July 27, 2022) ["Anti-Authoritarian Learning: Prospects for Democratization in Belarus Based on a Study of Polish Solidarity."](https://www.cambridge.org/core/journals/nationalities-papers/article/antiauthoritarian-learning-prospects-for-democratization-in-belarus-based-on-a-study-of-polish-solidarity/0B05C923250A86C3E8AAB7E27F3542FA) <em>Nationalities Papers.</em> (Shortlisted for the 2022 Routledge Area Studies Impact Award).
 
 Kulakevich, T. 2022. ["Courting Diaspora for FDI: The Conditional Nature of Diaspora Engagement Policies."](https://onlinelibrary.wiley.com/doi/10.1111/imig.12881?af=R) <em>International Migration.</em> 60(3): 3-19.
 
@@ -19,7 +19,7 @@ Kulakevich, T. 2020. ["National Awakening in Belarus: Elite Ideology to ‘Natio
 
 Kulakevich, T. 2018. ["Belarus in the Congressional Record, 1873-1994."](https://brill.com/view/journals/bela/8/2/article-p32_3.xml) <em>Journal of Belarusian Studies,</em> 8(2): 32-46.
 
-Kulakevich, T. and Charnysh, V. 2017. ["Political Parties in Belarus."](https://www.cambridge.org/core/books/abs/organizational-structures-of-political-parties-in-central-and-eastern-european-countries/belarus-belarusian-political-parties-organizational-structures-and-practices/8915DC04E5497B892AB1FA6D6CEF77D1) In Kosowska-Gastol & Borowiec (eds.) <em>Organizational Structures of Political Parties in Central and Eastern European Countries.</em> Jagiellonian University and Pedagogical University in Krakow.
+Kulakevich, T. and Charnysh, V. 2017. ["Political Parties in Belarus."](https://www.cambridge.org/core/books/abs/organizational-structures-of-political-parties-in-central-and-eastern-european-countries/belarus-belarusian-political-parties-organizational-structures-and-practices/8915DC04E5497B892AB1FA6D6CEF77D1) In Kosowska-Gastol & Borowiec (eds.) <em>Organizational Structures of Political Parties in Central and Eastern European Countries.</em> Jagiellonian University and Pedagogical University in Krakow. (Shortlisted for an International Congress for Belarusian Studies award for the best scientific publication in 2016 in Social and Political sciences).
 
 Kulakevich, T., 2014. ["Twenty Years in the Making: Understanding the Difficulty for Change in Belarus."](https://journals.sagepub.com/doi/abs/10.1177/0888325414535429) <em>East European Politics and Societies, and Cultures,</em> 28(4): 887-901.
 
