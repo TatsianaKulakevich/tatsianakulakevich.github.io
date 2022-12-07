@@ -6,8 +6,8 @@ permalink: /publications/
 
 <strong>Peer-Reviewed Articles and Book Chapters</strong>
 
-Kulakevich, T. and Kazharski, A., Lozka, K. (forthcoming) "Belarus-Ukraine Relations." In Umland, A. (ed.) <em>Ukraine in Central and Eastern Europe:
-Kyiv's Foreign Affairs and the International Relations of the Post-Communist Region.</em> Columbia University Press.
+Kulakevich, T. and Kazharski, A., Lozka, K. 2022. "Belarus-Ukraine Relations." In Umland, A. (ed.) <em>[Ukraine in Central and Eastern Europe:
+Kyiv's Foreign Affairs and the International Relations of the Post-Communist Region.[(https://www.ibidem.eu/en/ukraine-in-central-and-eastern-europe-9783838216157.html?fbclid=IwAR23pFd1AAgqgJZ7h_KfE5wAH8UmZfadvVhz1AQZTj7_U-Z13LLVQ0Kn4ck)</em> Columbia University Press.
 
 Kulakevich, T. and Kubik, J. (published online on July 27, 2022) ["Anti-Authoritarian Learning: Prospects for Democratization in Belarus Based on a Study of Polish Solidarity."](https://www.cambridge.org/core/journals/nationalities-papers/article/antiauthoritarian-learning-prospects-for-democratization-in-belarus-based-on-a-study-of-polish-solidarity/0B05C923250A86C3E8AAB7E27F3542FA) <em>Nationalities Papers.</em> (Shortlisted for the 2022 Routledge Area Studies Impact Award).
 
