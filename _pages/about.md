@@ -15,5 +15,5 @@ My analyses appeared in media and academic journals, including [The Monkey Cage 
 
 Media appearances in 2022:
 
-<img src="/images/mediainterviews.png" alt="Media interviews" style="height: 700px; width:700px;" class="center"/>
+<img src="/images/mediainterviews.png" alt="Media interviews" style="height: 850px; width:750px;" class="center"/>
 
