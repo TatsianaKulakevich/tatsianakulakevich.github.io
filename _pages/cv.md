@@ -126,9 +126,9 @@ Work Experience
   * University of South Florida
 * August 2018 - July 2020: Visiting Assistant Professor
   * University of South Florida
-* September 2014 - May 2020: Adjunct Professor
+* September 2014 - May 2018: Adjunct Professor
   * Rutgers University
-* September 2014 - May 2020: Teaching Assistant
+* September 2014 - May 2018: Teaching Assistant
   * Rutgers University
   
 Conference Participation
