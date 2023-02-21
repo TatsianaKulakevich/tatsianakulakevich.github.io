@@ -46,7 +46,10 @@ Kipel Z. 2014. "Development of Book Studies in Belarus," 1917-1935 (T. Kulakevic
   
 Media Analyses
 ======
-[Russia plans to annex parts of Eastern Ukraine – an Eastern European expert explains 3 key things to know about the regions at stake.](https://theconversation.com/russia-plans-to-annex-parts-of-eastern-ukraine-an-eastern-european-expert-explains-3-key-things-to-know-about-the-regions-at-stake-191482)<em>The Conversation</em>, September 29, 2022.
+
+[Ukrainians’ commitment to fight off Russia grows stronger, as does their expectation of victory, as war enters second year.] (https://theconversation.com/ukrainians-commitment-to-fight-off-russia-grows-stronger-as-does-their-expectation-of-victory-as-war-enters-second-year-196450) <em>The Conversation</em>, February 21, 2023.
+
+[Russia plans to annex parts of Eastern Ukraine – an Eastern European expert explains 3 key things to know about the regions at stake.](https://theconversation.com/russia-plans-to-annex-parts-of-eastern-ukraine-an-eastern-european-expert-explains-3-key-things-to-know-about-the-regions-at-stake-191482) <em>The Conversation</em>, September 29, 2022.
 
 [Four reasons Belarus isn't likely to send troops to Ukraine.](https://www.washingtonpost.com/politics/2022/09/14/belarus-russia-ukraine-putin-lukashenko/?fbclid=IwAR0tdXJEvVpoA3hPYY9eBU0FV-Qatx8M_aKy2hhiKhvOFfHvO2-mWgq-agU) <em>The Washington Post (The Monkey Cage)</em>, September 14, 2022.
 
