@@ -19,8 +19,8 @@ Publications
 ======
 <strong>Peer-Reviewed Articles and Book Chapters</strong>
 
-Kulakevich, T. and Kazharski, A., Lozka, K. 2022. "Belarus-Ukraine Relations." in <em>Ukraine in Central and Eastern Europe
-Kyiv's Foreign Affairs and the International Relations of the Post-Communist Region.</em> Columbia University Press.
+Kulakevich, T. and Kazharski, A., Lozka, K. 2022. ["Belarus-Ukraine Relations."](https://www.ibidem.eu/en/ukraine-in-central-and-eastern-europe-9783838216157.html?fbclid=IwAR23pFd1AAgqgJZ7h_KfE5wAH8UmZfadvVhz1AQZTj7_U-Z13LLVQ0Kn4ck) in <em> Ukraine in Central and Eastern Europe:
+Kyiv's Foreign Affairs and the International Relations of the Post-Communist Region.</em> Ibidem Press.
 
 Kulakevich, T. and Kubik, J. (published online on July 27, 2022) ["Anti-authoritarian learning: an examination of the prospects for democratization in Belarus based on a study of Polish Solidarity."](https://www.cambridge.org/core/journals/nationalities-papers/article/antiauthoritarian-learning-prospects-for-democratization-in-belarus-based-on-a-study-of-polish-solidarity/0B05C923250A86C3E8AAB7E27F3542FA) <em>Nationalities Papers.</em> (Shortlisted for the 2022 Routledge Area Studies Impact Award).
 
@@ -138,6 +138,7 @@ Work Experience
   
 Conference Participation
 ======
+* Western Political Science Association ANnual Meeting, 2023
 * American Political Science Association Annual Meeting, 2020
 * Southern Political Science Association Annual Meeting, 2019, 2020
 * Midwest Political Science Association Annual Meeting, Chicago, 2015, 2017, 2019
@@ -166,7 +167,7 @@ Professional Service
 ======
  * Board member: <em>SN Social Sciences multi- and interdisciplinary peer-reviewed academic research journal.</em>
 
- * Reviewer: <em>East European Politics, Societies, and Cultures; Journal of Belarusian Studies; The Journal of Eurasian Studies; Government and Opposition; Canadian Slavonic Papers, SN Social Sciences; Baltic Worlds; Demokratizatsiya: The Journal of Post-Soviet Democratization </em> (published by by the Institute for European, Russian and Eurasian Studies, Elliott School of International Affairs, George Washington University); <em>Rowman & Littlefield; Springer.</em>   
+ * Reviewer: <em>East European Politics, Societies, and Cultures; Journal of Belarusian Studies; The Journal of Eurasian Studies; Government and Opposition; Canadian Slavonic Papers, SN Social Sciences; Baltic Worlds; Nationalities Papers; Demokratizatsiya: The Journal of Post-Soviet Democratization </em> (published by by the Institute for European, Russian and Eurasian Studies, Elliott School of International Affairs, George Washington University); <em>Rowman & Littlefield; Springer.</em>   
   
  * Webmaster: <em>Political Science Department at Rutgers University</em>, 2016-2018; <em>Institute for Russian, European, and Eurasian Studies at University of South Florida </em>, 2020 - present.                                                                                                                                                                                                                                                                                                                                                        
   
