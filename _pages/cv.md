@@ -139,7 +139,7 @@ Work Experience
   
 Conference Participation
 ======
-* Western Political Science Association ANnual Meeting, 2023
+* Western Political Science Association Annual Meeting, 2023
 * American Political Science Association Annual Meeting, 2020
 * Southern Political Science Association Annual Meeting, 2019, 2020
 * Midwest Political Science Association Annual Meeting, Chicago, 2015, 2017, 2019
