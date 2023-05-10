@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-My Name is Tatsiana Kulakevich, and I am an Assistant Professor of Instruction in the School of Interdisciplinary Global Studies, Research Fellow and Affiliate Faculty at the Institute for Russian, European and Eurasian Studies at the University of South Florida.
+My Name is Tatsiana Kulakevich, and I am an Associate Professor of Instruction in the School of Interdisciplinary Global Studies, Research Fellow and Affiliate Faculty at the Institute for Russian, European and Eurasian Studies at the University of South Florida.
 
 My research focuses on democratization, international security, migration, and ethnic politics. My specialties include International Relations, Comparative Politics, Eastern European politics, and Quantitative Methods.
 
