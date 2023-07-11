@@ -151,6 +151,7 @@ Conference Participation
  
 Grants and Awards
 ======
+* Research One grant, University of South Florida, to promote research-related activities and events, Fall 2023
 * 2021-2022 Outstanding Undergraduate Teaching Award, 2022
 * International Congress for Belarusian Studies award for the best scientific publication in 2021 in Social and Political sciences
 * International Congress for Belarusian Studies award for the best scientific publication in 2020 in Social and Political sciences
