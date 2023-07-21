@@ -8,6 +8,8 @@ redirect_from:
 
 {% include base_path %} 
 
+[In Kyiv, signs of the ongoing war are evident – but daily life continues uninterrupted as well](https://theconversation.com/in-kyiv-signs-of-the-ongoing-war-are-evident-but-daily-life-continues-uninterrupted-as-well-209952) <em>The Conversation</em>, July 21, 2023.
+
 [Moldova is trying to join the EU, but it will have a hard time breaking away from Russia’s orbit.](https://theconversation.com/moldova-is-trying-to-join-the-eu-but-it-will-have-a-hard-time-breaking-away-from-russias-orbit-206838) <em>The Conversation</em>, June 2, 2023.
 
 [5 things to know about Moldova and Transnistria – and why Russia’s war in Ukraine is threatening their security, too.](https://theconversation.com/5-things-to-know-about-moldova-and-transnistria-and-why-russias-war-in-ukraine-is-threatening-their-security-too-200982) <em>The Conversation</em>, March 3, 2023.
