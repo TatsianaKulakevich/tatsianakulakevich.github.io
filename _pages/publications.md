@@ -27,6 +27,6 @@ Kulakevich, T., 2014. ["Twenty Years in the Making: Understanding the Difficulty
 
 Kulakevich, T. 2022. Review of R. Hervouet’s ["A Taste for Oppression: Political Ethnography of Everyday Life in Belarus”.](https://www.tandfonline.com/doi/full/10.1080/00085006.2022.2027113?needAccess=true) <em>Canadian Slavonic Papers,</em> 64(1): 120-121.
 
-Kulakevich, T. 2016. Review of M. Balmaceda’s "Living the High Life in Minsk: Russian Energy Rents, Domestic Populism and Belarus’ Impending Crisis High." <em>The Journal of Eurasian Studies,</em> 7(2): 220.
+Kulakevich, T. 2016. Review of M. Balmaceda’s ["Living the High Life in Minsk: Russian Energy Rents, Domestic Populism and Belarus’ Impending Crisis High."](https://journals.sagepub.com/doi/epub/10.1016/j.euras.2016.04.001) <em>The Journal of Eurasian Studies,</em> 7(2): 220.
 
 <!-- Kipel Z. 2014. "Development of Book Studies in Belarus," 1917-1935 (T. Kulakevich and V. Ermashkevish, Trans.). In <em>Belarusian Book in Context of the World Book Culture.</em> Minsk: Medial. pp. 123-134.-->
