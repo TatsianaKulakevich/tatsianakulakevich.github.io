@@ -23,7 +23,7 @@ Kulakevich, T. and Charnysh, V. 2017. ["Political Parties in Belarus."](https://
 
 Kulakevich, T., 2014. ["Twenty Years in the Making: Understanding the Difficulty for Change in Belarus."](https://journals.sagepub.com/doi/abs/10.1177/0888325414535429) <em>East European Politics and Societies, and Cultures,</em> 28(4): 887-901.
 
-<strong>Book Reviews, Translations, Editing</strong>
+<strong>Book Reviews</strong> <!--, Translations, Editing</strong>-->
 
 Kulakevich, T. 2022. Review of R. Hervouet’s ["A Taste for Oppression: Political Ethnography of Everyday Life in Belarus”.](https://www.tandfonline.com/doi/full/10.1080/00085006.2022.2027113?needAccess=true) <em>Canadian Slavonic Papers,</em> 64(1): 120-121.
 
