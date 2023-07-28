@@ -29,4 +29,4 @@ Kulakevich, T. 2022. Review of R. Hervouet’s ["A Taste for Oppression: Politic
 
 Kulakevich, T. 2016. Review of M. Balmaceda’s "Living the High Life in Minsk: Russian Energy Rents, Domestic Populism and Belarus’ Impending Crisis High." <em>The Journal of Eurasian Studies,</em> 7(2): 220.
 
-####Kipel Z. 2014. "Development of Book Studies in Belarus," 1917-1935 (T. Kulakevich and V. Ermashkevish, Trans.). In <em>Belarusian Book in Context of the World Book Culture.</em> Minsk: Medial. pp. 123-134.####
+<!-- Kipel Z. 2014. "Development of Book Studies in Belarus," 1917-1935 (T. Kulakevich and V. Ermashkevish, Trans.). In <em>Belarusian Book in Context of the World Book Culture.</em> Minsk: Medial. pp. 123-134.-->
