@@ -6,6 +6,8 @@ permalink: /publications/
 
 <strong>Peer-Reviewed Articles and Book Chapters</strong>
 
+Kulakevich, T. (under review). "The War in Ukraine: Neutralizing Effect of Weaponized Interdependence." <em>Nationalities Papers.</em>
+
 Kulakevich, T. and Kubik, J. 2023. ["Anti-authoritarian learning: an examination of the prospects for democratization in Belarus based on a study of Polish Solidarity."](https://www.cambridge.org/core/journals/nationalities-papers/article/antiauthoritarian-learning-prospects-for-democratization-in-belarus-based-on-a-study-of-polish-solidarity/0B05C923250A86C3E8AAB7E27F3542FA) <em>Nationalities Papers.</em> 51(4): 823-837. (Shortlisted for the 2022 Routledge Area Studies Impact Award).
 
 Kulakevich, T. and Kazharski, A., Lozka, K. 2022. ["Belarus-Ukraine Relations."](https://www.ibidem.eu/en/ukraine-in-central-and-eastern-europe-9783838216157.html?fbclid=IwAR23pFd1AAgqgJZ7h_KfE5wAH8UmZfadvVhz1AQZTj7_U-Z13LLVQ0Kn4ck) in <em> Ukraine in Central and Eastern Europe:
@@ -25,7 +27,7 @@ Kulakevich, T., 2014. ["Twenty Years in the Making: Understanding the Difficulty
 
 <strong>Book Reviews</strong> <!--, Translations, Editing</strong>-->
 
-Kulakevich, T. (under review). Review of P. Hansbury’s "Belarus in Crisis: From Domestic Unrestto the Russia-Ukraine War”. <em>The Russian Review</em>.
+Kulakevich, T. (forthcoming). Review of P. Hansbury’s "Belarus in Crisis: From Domestic Unrestto the Russia-Ukraine War”. <em>The Russian Review</em>.
 
 Kulakevich, T. 2022. Review of R. Hervouet’s ["A Taste for Oppression: Political Ethnography of Everyday Life in Belarus”.](https://www.tandfonline.com/doi/full/10.1080/00085006.2022.2027113?needAccess=true) <em>Canadian Slavonic Papers,</em> 64(1): 120-121.
 
