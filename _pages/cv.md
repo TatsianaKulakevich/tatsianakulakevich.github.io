@@ -155,7 +155,8 @@ Conference Participation
 * Southern Political Science Association Annual Meeting, 2019, 2020
 * Midwest Political Science Association Annual Meeting, Chicago, 2015, 2017, 2019
 * United Students of Belarus Annual Meeting, Vilnius, Lithuania, 2016
-* Annual ASN World Convention, New York, 2013, 2015, 2022                                              * Association for Slavic, Eastern European & Eurasian Studies Annual Convention, 2012, 2013, 2023
+* Annual ASN World Convention, New York, 2013, 2015, 2022
+* Association for Slavic, Eastern European & Eurasian Studies Annual Convention, 2012, 2013, 2023
 * Austrian Cultural Forum conference, New York, 2012    
  
 Grants and Awards
@@ -182,7 +183,7 @@ Professional Service
 
  * Reviewer: <em>East European Politics, Societies, and Cultures; Journal of Belarusian Studies; The Journal of Eurasian Studies; Government and Opposition; Canadian Slavonic Papers, SN Social Sciences; Baltic Worlds; Nationalities Papers; Demokratizatsiya: The Journal of Post-Soviet Democratization </em> (published by by the Institute for European, Russian and Eurasian Studies, Elliott School of International Affairs, George Washington University); <em>Rowman & Littlefield; Springer.</em>   
   
- * Webmaster: <em>Political Science Department at Rutgers University</em>, 2016-2018; <em>Institute for Russian, European, and Eurasian Studies at University of South Florida </em>, 2020 - 2022.                                                                                                                
+ * Webmaster: <em>Political Science Department at Rutgers University</em>, 2016-2018; <em>Institute for Russian, European, and Eurasian Studies at University of South Florida,</em> 2020 - 2022.                                                                                                                
 Skills
 ======
 * Programming
