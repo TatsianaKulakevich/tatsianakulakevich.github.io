@@ -19,7 +19,7 @@ Publications
 ======
 <strong>Peer-Reviewed Articles and Book Chapters</strong>
 
-Kulakevich, T. (under review). "The War in Ukraine: Neutralizing Effect of Weaponized Interdependence." <em>Nationalities Papers.</em>
+Kulakevich, T. (review and resubmit). "The War in Ukraine: Deterrent Effect of Weaponized Interdependence." <em>Nationalities Papers.</em>
 
 Kulakevich, T. and Kubik, J. 2023. ["Anti-authoritarian learning: an examination of the prospects for democratization in Belarus based on a study of Polish Solidarity."](https://www.cambridge.org/core/journals/nationalities-papers/article/antiauthoritarian-learning-prospects-for-democratization-in-belarus-based-on-a-study-of-polish-solidarity/0B05C923250A86C3E8AAB7E27F3542FA) <em>Nationalities Papers.</em> 51(4): 823-837. (Shortlisted for the 2022 Routledge Area Studies Impact Award).
 
@@ -50,6 +50,10 @@ Kulakevich, T. 2016. Review of M. Balmaceda’s ["Living the High Life in Minsk:
   
 Media Analyses
 ======
+[Senate approves nearly $61B of Ukraine foreign aid − here’s why it helps the US to keep funding Ukraine.](https://theconversation.com/senate-approves-nearly-61b-of-ukraine-foreign-aid-heres-why-it-helps-the-us-to-keep-funding-ukraine-228344) <em>The Conversation</em>, April 24, 2024.
+
+[House of Representatives holds off on Ukraine aid package − here’s why the US has a lot at stake in supporting Ukraine.](https://theconversation.com/house-of-representatives-holds-off-on-ukraine-aid-package-heres-why-the-us-has-a-lot-at-stake-in-supporting-ukraine-227420?fbclid=IwAR3S54sZBTYL6qeZsCz4dlHpWPtDs49gaugX7utq95LEFNR3udarbzgjOEM_aem_AUMh8U93XkktAgDqvTmu0cgRmYNKaqSUao4Vk914F6_4FEmRF4mV911iXzpc7zwipsM-YJC5crs_x0d2diPZhV1L) <em>The Conversation</em>, April 10, 2024.
+
 [In Kyiv, signs of the ongoing war are evident – but daily life continues uninterrupted as well.](https://theconversation.com/in-kyiv-signs-of-the-ongoing-war-are-evident-but-daily-life-continues-uninterrupted-as-well-209952) <em>The Conversation</em>, July 21, 2023.
 
 [Moldova is trying to join the EU, but it will have a hard time breaking away from Russia’s orbit.](https://theconversation.com/moldova-is-trying-to-join-the-eu-but-it-will-have-a-hard-time-breaking-away-from-russias-orbit-206838) <em>The Conversation</em>, June 2, 2023.
@@ -151,23 +155,23 @@ Conference Participation
 * Southern Political Science Association Annual Meeting, 2019, 2020
 * Midwest Political Science Association Annual Meeting, Chicago, 2015, 2017, 2019
 * United Students of Belarus Annual Meeting, Vilnius, Lithuania, 2016
-* Annual ASN World Convention, New York, 2013, 2015, 2022                                                          
-* Association for Slavic, Eastern European & Eurasian Studies Annual Convention, 2012, 2013
+* Annual ASN World Convention, New York, 2013, 2015, 2022                                              * Association for Slavic, Eastern European & Eurasian Studies Annual Convention, 2012, 2013, 2023
 * Austrian Cultural Forum conference, New York, 2012    
  
 Grants and Awards
 ======
+* 2022-2023 High-impact Practices in Teaching Award 
 * Research One grant, University of South Florida, to promote research-related activities and events, Fall 2023
-* 2021-2022 Outstanding Undergraduate Teaching Award, 2022
+* 2021-2022 Outstanding Undergraduate Teaching Award
 * International Congress for Belarusian Studies award for the best scientific publication in 2021 in Social and Political sciences
 * International Congress for Belarusian Studies award for the best scientific publication in 2020 in Social and Political sciences
 * Research One grant, University of South Florida, to promote research-related activities and events, Fall 2021
 * Research One grant, University of South Florida, to promote research-related activities and events, Fall 2019
 * USF World grant, University of South Florida, to encourage international engagement and research, Fall 2019
-* Teaching Assistantship, Rutgers University, Fall 2013, Spring 2014, Spring 2016, Fall 2016, Spring 2017, Fall 2017, Spring 2018                                                                                                       
+* Teaching Assistantship, Rutgers University, Fall 2013, Spring 2014, Spring 2016, Fall 2016, Spring 2017, Fall 2017, Spring 2018                                                                                                      
 * TA-GA Award (supporting dissertation research), Rutgers University, Summer 2015, Fall 2015, Summer 2017                                                                                                                              
-* Special Study Award (supporting dissertation research), Rutgers University, Summer 2015, Summer 2016                                                                                                             
-* Central European University (Budapest) Grant, Summer 2015                                                                                                                                                                                                                                                                                                       
+* Special Study Award (supporting dissertation research), Rutgers University, Summer 2015, Summer 2016     
+* Central European University (Budapest) Grant, Summer 2015                                                                                      
 * Tuition Incentive Program Award, New York University, 2009-2010, 2010-2011                                    
 * Educational Scholarship, Lubachko Foundation, 2009-2010                                                          
 * Transfer Scholarship, Rider University, 2007-2008   
@@ -178,8 +182,7 @@ Professional Service
 
  * Reviewer: <em>East European Politics, Societies, and Cultures; Journal of Belarusian Studies; The Journal of Eurasian Studies; Government and Opposition; Canadian Slavonic Papers, SN Social Sciences; Baltic Worlds; Nationalities Papers; Demokratizatsiya: The Journal of Post-Soviet Democratization </em> (published by by the Institute for European, Russian and Eurasian Studies, Elliott School of International Affairs, George Washington University); <em>Rowman & Littlefield; Springer.</em>   
   
- * Webmaster: <em>Political Science Department at Rutgers University</em>, 2016-2018; <em>Institute for Russian, European, and Eurasian Studies at University of South Florida </em>, 2020 - present.                                                                                                                                                                                                                                                                                                                                                        
-  
+ * Webmaster: <em>Political Science Department at Rutgers University</em>, 2016-2018; <em>Institute for Russian, European, and Eurasian Studies at University of South Florida </em>, 2020 - 2022.                                                                                                                
 Skills
 ======
 * Programming
