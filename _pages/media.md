@@ -8,6 +8,8 @@ redirect_from:
 
 {% include base_path %}
 
+[Senate approves nearly $61B of Ukraine foreign aid − here’s why it helps the US to keep funding Ukraine.](https://theconversation.com/senate-approves-nearly-61b-of-ukraine-foreign-aid-heres-why-it-helps-the-us-to-keep-funding-ukraine-228344) <em>The Conversation</em>, April 24, 2024.
+
 [House of Representatives holds off on Ukraine aid package − here’s why the US has a lot at stake in supporting Ukraine.](https://theconversation.com/house-of-representatives-holds-off-on-ukraine-aid-package-heres-why-the-us-has-a-lot-at-stake-in-supporting-ukraine-227420?fbclid=IwAR3S54sZBTYL6qeZsCz4dlHpWPtDs49gaugX7utq95LEFNR3udarbzgjOEM_aem_AUMh8U93XkktAgDqvTmu0cgRmYNKaqSUao4Vk914F6_4FEmRF4mV911iXzpc7zwipsM-YJC5crs_x0d2diPZhV1L) <em>The Conversation</em>, April 10, 2024.
 
 [Belarus opposition are key allies in the fight against Russian imperialism.](https://www.atlanticcouncil.org/blogs/ukrainealert/belarus-opposition-are-key-allies-in-the-fight-against-russian-imperialism/?fbclid=IwAR0-d-t8jH7FHw2cirRJWSfaH1zWVVjc5jXkb6lvf-GAnLu-MexNW8y7jHQ) <em>The Atlantic Council (Ukraine Alert)</em>, January 4, 2024.
