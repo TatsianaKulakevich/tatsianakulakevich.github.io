@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Bio"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Tatsiana Kulakevich"
 description              : &description "Associate Professor of Instruction"
