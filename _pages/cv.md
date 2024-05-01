@@ -161,7 +161,7 @@ Conference Participation
  
 Grants and Awards
 ======
-* 2022-2023 High-impact Practices in Teaching Award 
+* Certificate of High-Impact Practices (HIPs) Excellence in mentoring and supporting undergraduate students, spring 2024
 * Research One grant, University of South Florida, to promote research-related activities and events, Fall 2023
 * 2021-2022 Outstanding Undergraduate Teaching Award
 * International Congress for Belarusian Studies award for the best scientific publication in 2021 in Social and Political sciences
