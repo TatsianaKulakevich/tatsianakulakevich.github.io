@@ -19,7 +19,7 @@ Publications
 ======
 <strong>Peer-Reviewed Articles and Book Chapters</strong>
 
-Kulakevich, T. (review and resubmit). "The War in Ukraine: Deterrent Effect of Weaponized Interdependence." <em>Nationalities Papers.</em>
+Kulakevich, T. (forthcoming). "The War in Ukraine: Deterrent Effect of Weaponized Interdependence." <em>Nationalities Papers.</em>
 
 Kulakevich, T. and Kubik, J. 2023. ["Anti-authoritarian learning: an examination of the prospects for democratization in Belarus based on a study of Polish Solidarity."](https://www.cambridge.org/core/journals/nationalities-papers/article/antiauthoritarian-learning-prospects-for-democratization-in-belarus-based-on-a-study-of-polish-solidarity/0B05C923250A86C3E8AAB7E27F3542FA) <em>Nationalities Papers.</em> 51(4): 823-837. (Shortlisted for the 2022 Routledge Area Studies Impact Award).
 
