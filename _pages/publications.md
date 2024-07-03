@@ -10,7 +10,7 @@ Kulakevich, T. (forthcoming). "The War in Ukraine: Deterrent Effect of Weaponize
 
 Kulakevich, T. and Kubik, J. 2023. ["Anti-authoritarian learning: an examination of the prospects for democratization in Belarus based on a study of Polish Solidarity."](https://www.cambridge.org/core/journals/nationalities-papers/article/antiauthoritarian-learning-prospects-for-democratization-in-belarus-based-on-a-study-of-polish-solidarity/0B05C923250A86C3E8AAB7E27F3542FA) <em>Nationalities Papers.</em> 51(4): 823-837. (Shortlisted for the 2022 Routledge Area Studies Impact Award).
 
-Kulakevich, T. and Kazharski, A., Lozka, K. 2022. ["Belarus-Ukraine Relations."](https://www.ibidem.eu/en/ukraine-in-central-and-eastern-europe-9783838216157.html?fbclid=IwAR23pFd1AAgqgJZ7h_KfE5wAH8UmZfadvVhz1AQZTj7_U-Z13LLVQ0Kn4ck) in <em> Ukraine in Central and Eastern Europe:
+Kulakevich, T. and Kazharski, A., Lozka, K. 2022. ["Belarus-Ukraine Relations."](https://cup.columbia.edu/book/ukraine-in-central-and-eastern-europe/9783838216157) in <em> Ukraine in Central and Eastern Europe:
 Kyiv's Foreign Affairs and the International Relations of the Post-Communist Region.</em> Ibidem Press.
 
 Kulakevich, T. 2022. ["Courting Diaspora for FDI: The Conditional Nature of Diaspora Engagement Policies."](https://onlinelibrary.wiley.com/doi/10.1111/imig.12881?af=R) <em>International Migration.</em> 60(3): 3-19.
