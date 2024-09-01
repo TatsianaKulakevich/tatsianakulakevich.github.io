@@ -19,7 +19,7 @@ Publications
 ======
 <strong>Peer-Reviewed Articles and Book Chapters</strong>
 
-Kulakevich, T. and Saifullayeu, A. (under review). "Ethnic Minorities in Belarus and the Government Attitudes Towards Them" in <em> The Routledge Handbook of Contemporary Belarus. </em>Routledge.
+Kulakevich, T. and Saifullayeu, A. (under review). "National Minorities in Belarus and the Government Attitudes Towards Them" in <em> The Routledge Handbook of Contemporary Belarus. </em>Routledge.
 
 Kulakevich, T. (forthcoming). "The War in Ukraine: Deterrent Effect of Weaponized Interdependence." <em>Nationalities Papers.</em>
 
