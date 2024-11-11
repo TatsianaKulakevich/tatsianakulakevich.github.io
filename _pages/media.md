@@ -6,7 +6,6 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
 [Could Trump Turn Out to Be Great for Ukraine?](https://www.usnews.com/opinion/articles/2024-11-11/could-trump-turn-out-to-be-great-for-ukraine) <em>U.S. News and World Report</em>, November 11, 2024.
 
 [Senate approves nearly $61B of Ukraine foreign aid − here’s why it helps the US to keep funding Ukraine.](https://theconversation.com/senate-approves-nearly-61b-of-ukraine-foreign-aid-heres-why-it-helps-the-us-to-keep-funding-ukraine-228344) <em>The Conversation</em>, April 24, 2024.
