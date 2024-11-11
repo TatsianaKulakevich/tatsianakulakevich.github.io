@@ -52,6 +52,8 @@ Kulakevich, T. 2016. Review of M. Balmaceda’s ["Living the High Life in Minsk:
   
 Media Analyses
 ======
+[Could Trump Turn Out to Be Great for Ukraine?](https://www.usnews.com/opinion/articles/2024-11-11/could-trump-turn-out-to-be-great-for-ukraine) <em>U.S. News and World Report</em>, November 11, 2024.
+
 [Senate approves nearly $61B of Ukraine foreign aid − here’s why it helps the US to keep funding Ukraine.](https://theconversation.com/senate-approves-nearly-61b-of-ukraine-foreign-aid-heres-why-it-helps-the-us-to-keep-funding-ukraine-228344) <em>The Conversation</em>, April 24, 2024.
 
 [House of Representatives holds off on Ukraine aid package − here’s why the US has a lot at stake in supporting Ukraine.](https://theconversation.com/house-of-representatives-holds-off-on-ukraine-aid-package-heres-why-the-us-has-a-lot-at-stake-in-supporting-ukraine-227420?fbclid=IwAR3S54sZBTYL6qeZsCz4dlHpWPtDs49gaugX7utq95LEFNR3udarbzgjOEM_aem_AUMh8U93XkktAgDqvTmu0cgRmYNKaqSUao4Vk914F6_4FEmRF4mV911iXzpc7zwipsM-YJC5crs_x0d2diPZhV1L) <em>The Conversation</em>, April 10, 2024.
