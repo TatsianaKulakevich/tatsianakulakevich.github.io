@@ -5,7 +5,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-[3 reasons why a Trump White House might not be a disaster for Ukraine − in fact, it might tighten the screws on Russia](https://theconversation.com/3-reasons-why-a-trump-white-house-might-not-be-a-disaster-for-ukraine-in-fact-it-might-tighten-the-screws-on-russia-243227?fbclid=IwY2xjawGgcfdleHRuA2FlbQIxMQABHbcv-faGIFZkX34L31QaJ01mIlmYZgBQ0CZM3xDz11L9bmEYsr0F-VA_ng_aem_qlBg5BYXGokazyEzgoKcAw) <em>The Conversation</em>, November 12, 2024.
+[3 reasons why a Trump White House might not be a disaster for Ukraine − in fact, it might tighten the screws on Russia](https://theconversation.com/3-reasons-why-a-trump-white-house-might-not-be-a-disaster-for-ukraine-in-fact-it-might-tighten-the-screws-on-russia-243227?fbclid=IwY2xjawGgcfdleHRuA2FlbQIxMQABHbcv-faGIFZkX34L31QaJ01mIlmYZgBQ0CZM3xDz11L9bmEYsr0F-VA_ng_aem_qlBg5BYXGokazyEzgoKcAw) <em>The Conversation</em>, November 12, 2024. (translated into SPanish and French).
 
 [Could Trump Turn Out to Be Great for Ukraine?](https://www.usnews.com/opinion/articles/2024-11-11/could-trump-turn-out-to-be-great-for-ukraine) <em>U.S. News and World Report</em>, November 11, 2024.
 
@@ -27,13 +27,13 @@ redirect_from:
 
 [Four reasons Belarus isn't likely to send troops to Ukraine.](https://www.washingtonpost.com/politics/2022/09/14/belarus-russia-ukraine-putin-lukashenko/?fbclid=IwAR0tdXJEvVpoA3hPYY9eBU0FV-Qatx8M_aKy2hhiKhvOFfHvO2-mWgq-agU) <em>The Washington Post (The Monkey Cage)</em>, September 14, 2022.
 
-[4 things to know about Moldova and Transnistria – and why Russia’s war may spread beyond Ukraine to reach them soon.](https://theconversation.com/4-things-to-know-about-moldova-and-transnistria-and-why-russias-war-may-spread-beyond-ukraine-to-reach-them-soon-182030#comment_2781265) <em>The Conversation</em>, April 27, 2022.
+[4 things to know about Moldova and Transnistria – and why Russia’s war may spread beyond Ukraine to reach them soon.](https://theconversation.com/4-things-to-know-about-moldova-and-transnistria-and-why-russias-war-may-spread-beyond-ukraine-to-reach-them-soon-182030#comment_2781265) <em>The Conversation</em>, April 27, 2022. (translated into Spanish).
 
 [The politicization of the Belarusian diaspora.](https://www.eurozine.com/the-politicization-of-the-belarusian-diaspora/?fbclid=IwAR1C07IIVKMeBru-X6bd12Uo28ai2rPOSDZ12PnCBUAXmg8ahBl4PvAj9jk) <em>Eurozine (in German also in [dekoder](https://www.dekoder.org/de/gnose/belarus-diaspora-migration-geschichte))</em>, April 20, 2022.
 
 [3 reasons Belarus is helping Russia wage war against Ukraine.](https://theconversation.com/3-reasons-belarus-is-helping-russia-wage-war-against-ukraine-177984) <em>The Conversation</em>, March 3, 2022.
 
-[5 things to know about why Russia might invade Ukraine – and why the US is involved.](https://theconversation.com/5-things-to-know-about-why-russia-might-invade-ukraine-and-why-the-us-is-involved-175371) <em>The Conversation</em>, January 21, 2022.
+[5 things to know about why Russia might invade Ukraine – and why the US is involved.](https://theconversation.com/5-things-to-know-about-why-russia-might-invade-ukraine-and-why-the-us-is-involved-175371) <em>The Conversation</em>, January 21, 2022. (translated into Spanish).
 
 [Trouble on the Belarus-Poland border: What you need to know about the migrant crisis manufactured by Belarus’ leader.](https://theconversation.com/trouble-on-the-belarus-poland-border-what-you-need-to-know-about-the-migrant-crisis-manufactured-by-belarus-leader-172108) <em>The Conversation</em>, November 18, 2021.
 
