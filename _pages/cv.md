@@ -19,7 +19,7 @@ Publications
 ======
 <strong>Peer-Reviewed Articles and Book Chapters</strong>
 
-Kulakevich, T. and Saifullayeu, A. (under review). "National Minorities in Belarus and the Government Attitudes Towards Them" in <em> The Routledge Handbook of Contemporary Belarus. </em>Routledge.
+Kulakevich, T. and Saifullayeu, A. (under review). "National Minorities in Belarus and the Government Attitudes Towards Them." in <em> The Routledge Handbook of Contemporary Belarus. </em>Routledge.
 
 Kulakevich, T. (under review). "Local Governments in Belarus” in <em>Encyclopedia of Local and Regional Government and Politics.</em> Edward Elgar Publishing.
 
@@ -54,9 +54,9 @@ Kulakevich, T. 2016. Review of M. Balmaceda’s ["Living the High Life in Minsk:
   
 Media Analyses
 ======
-[5 elections to watch in 2025](https://theconversation.com/5-elections-to-watch-in-2025-246194) <em>The Conversation</em>, December 26, 2024.
+[5 elections to watch in 2025.](https://theconversation.com/5-elections-to-watch-in-2025-246194) <em>The Conversation</em>, December 26, 2024.
 
-[3 reasons why a Trump White House might not be a disaster for Ukraine − in fact, it might tighten the screws on Russia](https://theconversation.com/3-reasons-why-a-trump-white-house-might-not-be-a-disaster-for-ukraine-in-fact-it-might-tighten-the-screws-on-russia-243227?fbclid=IwY2xjawGgcfdleHRuA2FlbQIxMQABHbcv-faGIFZkX34L31QaJ01mIlmYZgBQ0CZM3xDz11L9bmEYsr0F-VA_ng_aem_qlBg5BYXGokazyEzgoKcAw) <em>The Conversation</em>, November 12, 2024. (translated into Spanish and French).
+[3 reasons why a Trump White House might not be a disaster for Ukraine − in fact, it might tighten the screws on Russia.](https://theconversation.com/3-reasons-why-a-trump-white-house-might-not-be-a-disaster-for-ukraine-in-fact-it-might-tighten-the-screws-on-russia-243227?fbclid=IwY2xjawGgcfdleHRuA2FlbQIxMQABHbcv-faGIFZkX34L31QaJ01mIlmYZgBQ0CZM3xDz11L9bmEYsr0F-VA_ng_aem_qlBg5BYXGokazyEzgoKcAw) <em>The Conversation</em>, November 12, 2024. (translated into Spanish and French).
 
 [Could Trump Turn Out to Be Great for Ukraine?](https://www.usnews.com/opinion/articles/2024-11-11/could-trump-turn-out-to-be-great-for-ukraine) <em>U.S. News and World Report</em>, November 11, 2024.
 
