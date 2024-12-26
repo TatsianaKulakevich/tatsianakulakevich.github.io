@@ -21,6 +21,8 @@ Publications
 
 Kulakevich, T. and Saifullayeu, A. (under review). "National Minorities in Belarus and the Government Attitudes Towards Them" in <em> The Routledge Handbook of Contemporary Belarus. </em>Routledge.
 
+Kulakevich, T. (under review). "Local Governments in Belarus” in <em>Encyclopedia of Local and Regional Government and Politics.</em> Edward Elgar Publishing.
+
 Kulakevich, T. (published online Oct.31, 2024). ["The War in Ukraine: Deterrent Effect of Weaponized Interdependence."](https://shorturl.at/tmUs0) <em>Nationalities Papers.</em>
 
 Kulakevich, T. and Kubik, J. 2023. ["Anti-authoritarian learning: an examination of the prospects for democratization in Belarus based on a study of Polish Solidarity."](https://www.cambridge.org/core/journals/nationalities-papers/article/antiauthoritarian-learning-prospects-for-democratization-in-belarus-based-on-a-study-of-polish-solidarity/0B05C923250A86C3E8AAB7E27F3542FA) <em>Nationalities Papers.</em> 51(4): 823-837. (Shortlisted for the 2022 Routledge Area Studies Impact Award).
@@ -52,6 +54,8 @@ Kulakevich, T. 2016. Review of M. Balmaceda’s ["Living the High Life in Minsk:
   
 Media Analyses
 ======
+[5 elections to watch in 2025](https://theconversation.com/5-elections-to-watch-in-2025-246194) <em>The Conversation</em>, December 26, 2024.
+
 [3 reasons why a Trump White House might not be a disaster for Ukraine − in fact, it might tighten the screws on Russia](https://theconversation.com/3-reasons-why-a-trump-white-house-might-not-be-a-disaster-for-ukraine-in-fact-it-might-tighten-the-screws-on-russia-243227?fbclid=IwY2xjawGgcfdleHRuA2FlbQIxMQABHbcv-faGIFZkX34L31QaJ01mIlmYZgBQ0CZM3xDz11L9bmEYsr0F-VA_ng_aem_qlBg5BYXGokazyEzgoKcAw) <em>The Conversation</em>, November 12, 2024. (translated into Spanish and French).
 
 [Could Trump Turn Out to Be Great for Ukraine?](https://www.usnews.com/opinion/articles/2024-11-11/could-trump-turn-out-to-be-great-for-ukraine) <em>U.S. News and World Report</em>, November 11, 2024.
