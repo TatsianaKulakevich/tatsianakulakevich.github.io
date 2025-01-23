@@ -54,6 +54,8 @@ Kulakevich, T. 2016. Review of M. Balmaceda’s ["Living the High Life in Minsk:
   
 Media Analyses
 ======
+[What another Lukashenko ‘victory’ will mean for Europe’s security – and that of Belarus’ citizenry.](https://theconversation.com/what-another-lukashenko-victory-will-mean-for-europes-security-and-that-of-belarus-citizenry-247882) <em>The Conversation</em>, January 26, 2025.
+
 [5 elections to watch in 2025.](https://theconversation.com/5-elections-to-watch-in-2025-246194) <em>The Conversation</em>, December 26, 2024. (together with Garret Martin (part on Germany), Lisandro E. Claudio (part on Philippines), Patrick James (part on Canada), and Jorge Heine (part on Chile)).
 
 [3 reasons why a Trump White House might not be a disaster for Ukraine − in fact, it might tighten the screws on Russia.](https://theconversation.com/3-reasons-why-a-trump-white-house-might-not-be-a-disaster-for-ukraine-in-fact-it-might-tighten-the-screws-on-russia-243227?fbclid=IwY2xjawGgcfdleHRuA2FlbQIxMQABHbcv-faGIFZkX34L31QaJ01mIlmYZgBQ0CZM3xDz11L9bmEYsr0F-VA_ng_aem_qlBg5BYXGokazyEzgoKcAw) <em>The Conversation</em>, November 12, 2024. (translated into Spanish and French).
