@@ -54,6 +54,8 @@ Kulakevich, T. 2016. Review of M. Balmaceda’s ["Living the High Life in Minsk:
   
 Media Analyses
 ======
+[Trump’s move to closer ties with Russia does not mean betrayal of Ukraine, yet – in his first term, Trump was pretty tough on Putin.](https://theconversation.com/trumps-move-to-closer-ties-with-russia-does-not-mean-betrayal-of-ukraine-yet-in-his-first-term-trump-was-pretty-tough-on-putin-250359) <em>The Conversation</em>, February 20, 2025.
+
 [What another Lukashenko ‘victory’ will mean for Europe’s security – and that of Belarus’ citizenry.](https://theconversation.com/what-another-lukashenko-victory-will-mean-for-europes-security-and-that-of-belarus-citizenry-247882) <em>The Conversation</em>, January 26, 2025.
 
 [5 elections to watch in 2025.](https://theconversation.com/5-elections-to-watch-in-2025-246194) <em>The Conversation</em>, December 26, 2024. (together with Garret Martin (part on Germany), Lisandro E. Claudio (part on Philippines), Patrick James (part on Canada), and Jorge Heine (part on Chile)).
