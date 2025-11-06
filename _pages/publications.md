@@ -8,7 +8,7 @@ permalink: /publications/
 
 Kulakevich, T. (forthcoming). “Local Governments in Belarus” in <em>Encyclopedia of Local and Regional Government and Politics.</em> Edward Elgar Publishing.
 
-Kulakevich, T. and Saifullayeu, A. 2025. ["National Minorities in Belarus and the Government Attitudes Towards Them"](https://www.researchgate.net/publication/397217148_National_Minorities_in_Belarus_and_the_Government's_Attitudes_Toward_Them) in <em> The Routledge Handbook of Contemporary Belarus. </em>Routledge.
+Kulakevich, T. and Saifullayeu, A. 2025. ["National Minorities in Belarus and the Government Attitudes Towards Them."](https://www.researchgate.net/publication/397217148_National_Minorities_in_Belarus_and_the_Government's_Attitudes_Toward_Them) <em> The Routledge Handbook of Contemporary Belarus. </em>Routledge.
 
 Kulakevich, T. (published online Oct.31, 2024). ["The War in Ukraine: Deterrent Effect of Weaponized Interdependence."](https://shorturl.at/tmUs0) <em>Nationalities Papers.</em>
 
