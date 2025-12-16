@@ -5,6 +5,8 @@ author_profile: true
 redirect_from:
   - /resume
 ---
+[The U.S.-Belarus prisoners-for-potash deal, explained.](https://goodauthority.org/news/the-us-belarus-prisoners-for-potash-deal-explained/?fbclid=IwY2xjawOujEVleHRuA2FlbQIxMQBicmlkETFmNFNjTHlsTDBTV1NnTDFUc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHpaIZrZGma9HZsyaeOlm8pKTIZ7JxcFKqYmuWvoHTYuMWC8Oj7etGUK7CyXa_aem_qxxR_p4c8fPNRPlaPKe-xw) <em>Good Authority (formerly TMC)</em>, December 16, 2025.
+
 [Belarus courts the west as its opposition keeps fighting.](https://thehill.com/opinion/international/5404093-belarus-emerges-from-western-isolation-but-the-opposition-is-still-fighting/) <em>The Hill</em>, July 17, 2025.
 
 [Trump’s move to closer ties with Russia does not mean betrayal of Ukraine, yet – in his first term, Trump was pretty tough on Putin.](https://theconversation.com/trumps-move-to-closer-ties-with-russia-does-not-mean-betrayal-of-ukraine-yet-in-his-first-term-trump-was-pretty-tough-on-putin-250359) <em>The Conversation</em>, February 20, 2025.
