@@ -13,7 +13,16 @@ Education
 ======
 * Ph.D. in Political Science, Rutgers University, NJ, 2018        
 * M.A. in International Relations, New York University, NY, 2011                     
-* B.A. in History and Multicultural Studies, Rider University, NJ, summa cum laude, 2008                                                                                                                                                                         
+* B.A. in History and Multicultural Studies, Rider University, NJ, summa cum laude, 2008
+
+Work Experience
+======
+* August 2023 - present: Associate Professor of Instruction
+  * University of South Florida
+* August 2020 - August 2023: Assistant Professor of Instruction
+  * University of South Florida
+* August 2018 - July 2020: Visiting Assistant Professor
+  * University of South Florida                                         
 
 Publications
 ======
@@ -136,34 +145,26 @@ Teaching
 ======
   <strong>University of South Florida</strong> 
 * Graduate
-  * <strong>POS 6746</strong>: Quantitative Analysis I, <em>Spring 2019, Spring 2020, Spring 2021, Spring 2022, Spring 2023, Spring 2024</em> 
-  * <strong>POS 6918</strong>: Quantitative Methods, <em>Spring 2019, Spring 2020, Fall 2022, Spring 2024 </em>
+  * <strong>POS 6746</strong>: Quantitative Analysis I
+  * <strong>POS 6918</strong>: Quantitative Methods
 * Undergraduate
-  * <strong>POS 3713</strong>: Empirical Political Analysis, <em>Fall 2018, Spring 2019, Fall 2019, Spring 2020, Summer 2020, Fall 2020, Spring 2021, Summer 2021, Fall 2021, Spring 2022, Fall 2022, Spring 2023, Fall 2023, Spring 2024 </em>
-  * <strong>POS 3931</strong>: Intermediate Research Methods, <em>Fall 2018</em>
-  * <strong>EUS 3000</strong>: Europe, University of South Florida, <em>Fall 2019</em>
-  * <strong>INR 4913</strong>: Politics of Eastern Europe, <em>Fall 2018, Fall 2019, Fall 2020, Fall 2023</em>
-  * <strong>INR 4913</strong>: The War in Ukraine, <em>Fall 2023</em>
+  * <strong>POS 3713</strong>: Empirical Political Analysis
+  * <strong>POS 3931</strong>: Intermediate Research Methods
+  * <strong>EUS 3000</strong>: Europe, University of South Florida
+  * <strong>INR 4913</strong>: Politics of Eastern Europe
+  * <strong>INR 4913</strong>: The War in Ukraine
 
 <strong>Rutgers University</strong>
 * Undergraduate
-  * <strong>790:300</strong>: Introduction to Political Science Methods, <em>Fall 2015, Spring 2016, Fall 2016, Spring 2017, Summer 2017, Fall 2017, Spring 2018</em>
-  * <strong>790:101</strong>: Nature of Politics, <em>Spring 2017</em>
-  * <strong>790:102</strong>: Introduction to International Relations, <em>Fall 2017, Spring 2016</em>
-  * <strong>790:103</strong>: Introduction to Comparative Politics, <em>Fall 2013, Spring 2014</em> 
-  * <strong>790:106</strong>: Law and Politics, <em>Spring 2018.</em>
-  
-Work Experience
-======
-* August 2023 - present: Associate Professor of Instruction
-  * University of South Florida
-* August 2020 - August 2023: Assistant Professor of Instruction
-  * University of South Florida
-* August 2018 - July 2020: Visiting Assistant Professor
-  * University of South Florida
+  * <strong>790:300</strong>: Introduction to Political Science Methods
+  * <strong>790:101</strong>: Nature of Politics
+  * <strong>790:102</strong>: Introduction to International Relations
+  * <strong>790:103</strong>: Introduction to Comparative Politics
+  * <strong>790:106</strong>: Law and Politics
   
 Conference Participation
 ======
+* Warsaw East European Annual conference, University of Warsaw, 2024
 * Western Political Science Association Annual Meeting, 2023
 * American Political Science Association Annual Meeting, 2020
 * Southern Political Science Association Annual Meeting, 2019, 2020
@@ -175,6 +176,8 @@ Conference Participation
  
 Grants and Awards
 ======
+* Fulbright U.S. Scholar Award (Centre of East European Studies, University of Warsaw), fall 2025-spring 2026
+* Research One grant, University of South Florida, to promote research-related activities and events, Fall 2025
 * Certificate of High-Impact Practices (HIPs) Excellence in mentoring and supporting undergraduate students, spring 2024
 * Research One grant, University of South Florida, to promote research-related activities and events, Fall 2023
 * 2021-2022 Outstanding Undergraduate Teaching Award
@@ -184,7 +187,7 @@ Grants and Awards
 * Research One grant, University of South Florida, to promote research-related activities and events, Fall 2019
 * USF World grant, University of South Florida, to encourage international engagement and research, Fall 2019
 * Teaching Assistantship, Rutgers University, Fall 2013, Spring 2014, Spring 2016, Fall 2016, Spring 2017, Fall 2017, Spring 2018                                                                                                      
-* TA-GA Award (supporting dissertation research), Rutgers University, Summer 2015, Fall 2015, Summer 2017                                                                                                                              
+* TA-GA Award (supporting dissertation research), Rutgers University, Summer 2015, Fall 2015, Summer 2017                                                                                                                             
 * Special Study Award (supporting dissertation research), Rutgers University, Summer 2015, Summer 2016     
 * Central European University (Budapest) Grant, Summer 2015                                                                                      
 * Tuition Incentive Program Award, New York University, 2009-2010, 2010-2011                                    
