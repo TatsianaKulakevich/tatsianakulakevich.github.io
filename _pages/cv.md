@@ -19,7 +19,7 @@ Publications
 ======
 <strong>Peer-Reviewed Articles and Book Chapters</strong>
 
-Kulakevich, T. (forthcoming). "Local Governments in Belarus” in <em>Encyclopedia of Local and Regional Government and Politics.</em> Edward Elgar Publishing.
+Kulakevich, T. (under review). "Redefining the Political: Diaspora, Culture, and Resistance." In K. Lozka (ed.) ’Defiant bodies’: Interpreting violence, agency, and resistance in Belarus. Ibidem Press/Columbia University Press.
 
 Kulakevich, T. and Saifullayeu, A. 2025. ["National Minorities in Belarus and the Government Attitudes Towards Them."](https://www.researchgate.net/publication/397217148_National_Minorities_in_Belarus_and_the_Government's_Attitudes_Toward_Them) In A. Kazharski (ed.) <em> The Routledge Handbook of Contemporary Belarus. </em>Routledge.
 
@@ -38,7 +38,7 @@ Kulakevich, T. 2020. ["National Awakening in Belarus: Elite Ideology to ‘Natio
 
 Kulakevich, T. 2018. ["Belarus in the Congressional Record, 1873-1994."](https://brill.com/view/journals/bela/8/2/article-p32_3.xml) <em>Journal of Belarusian Studies,</em> 8(2): 32-46.
 
-Kulakevich, T. and Charnysh, V. 2017. ["Political Parties in Belarus."](https://www.cambridge.org/core/books/abs/organizational-structures-of-political-parties-in-central-and-eastern-european-countries/belarus-belarusian-political-parties-organizational-structures-and-practices/8915DC04E5497B892AB1FA6D6CEF77D1) In Kosowska-Gastol & Borowiec (eds.) <em>Organizational Structures of Political Parties in Central and Eastern European Countries.</em> Jagiellonian University and Pedagogical University in Krakow. (Shortlisted for an International Congress for Belarusian Studies award for the best scientific publication in 2016 in Social and Political sciences).
+Kulakevich, T. and Charnysh, V. 2017. ["Political Parties in Belarus."](https://www.cambridge.org/core/books/abs/organizational-structures-of-political-parties-in-central-and-eastern-european-countries/belarus-belarusian-political-parties-organizational-structures-and-practices/8915DC04E5497B892AB1FA6D6CEF77D1) In B. Kosowska-Gastol & Borowiec (ed.) <em>Organizational Structures of Political Parties in Central and Eastern European Countries.</em> Jagiellonian University and Pedagogical University in Krakow. (Shortlisted for an International Congress for Belarusian Studies award for the best scientific publication in 2016 in Social and Political sciences).
 
 Kulakevich, T., 2014. ["Twenty Years in the Making: Understanding the Difficulty for Change in Belarus."](https://journals.sagepub.com/doi/abs/10.1177/0888325414535429) <em>East European Politics and Societies, and Cultures,</em> 28(4): 887-901.
 
