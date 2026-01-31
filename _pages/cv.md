@@ -17,12 +17,12 @@ Education
 
 Work Experience
 ======
-* August 2023 - present: Associate Professor of Instruction
-  * University of South Florida
-* August 2020 - August 2023: Assistant Professor of Instruction
-  * University of South Florida
-* August 2018 - July 2020: Visiting Assistant Professor
-  * University of South Florida                                         
+* Associate Professor of Instruction, University of South Florida
+  * August 2023 - present 
+* Assistant Professor of Instruction, University of South Florida
+  * August 2020 - August 2023
+* Visiting Assistant Professor, University of South Florida
+  * August 2018 - July 2020                                         
 
 Publications
 ======
