@@ -150,8 +150,8 @@ Teaching
 * Undergraduate
   * <strong>POS 3713</strong>: Empirical Political Analysis
   * <strong>POS 3931</strong>: Intermediate Research Methods
-  * <strong>EUS 3000</strong>: Europe, University of South Florida
-  * <strong>INR 4913</strong>: Politics of Eastern Europe
+  * <strong>EUS 3000</strong>: Europe
+  * <strong>CPO 3614 4913</strong>: Politics of Eastern Europe
   * <strong>INR 4913</strong>: The War in Ukraine
 
 <strong>Rutgers University</strong>
