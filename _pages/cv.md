@@ -63,6 +63,8 @@ Kulakevich, T. 2016. Review of M. Balmaceda’s ["Living the High Life in Minsk:
   
 Media Analyses
 ======
+[Belarus Profits as Iran War Upends Fertilizer Markets.](https://www.geopoliticalmonitor.com/belarus-wins-as-iran-war-upends-fertilizer-markets/)<em>Geopolitical Monitor</em>, April 7, 2026.
+
 [The U.S.-Belarus prisoners-for-potash deal, explained.](https://goodauthority.org/news/the-us-belarus-prisoners-for-potash-deal-explained/?fbclid=IwY2xjawOujEVleHRuA2FlbQIxMQBicmlkETFmNFNjTHlsTDBTV1NnTDFUc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHpaIZrZGma9HZsyaeOlm8pKTIZ7JxcFKqYmuWvoHTYuMWC8Oj7etGUK7CyXa_aem_qxxR_p4c8fPNRPlaPKe-xw) <em>Good Authority (formerly TMC)</em>, December 16, 2025.
 
 [Belarus courts the west as its opposition keeps fighting.](https://thehill.com/opinion/international/5404093-belarus-emerges-from-western-isolation-but-the-opposition-is-still-fighting/) <em>The Hill</em>, July 17, 2025.
