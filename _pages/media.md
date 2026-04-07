@@ -5,7 +5,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-[Belarus Profits as Iran War Upends Fertilizer Markets.](https://www.geopoliticalmonitor.com/belarus-wins-as-iran-war-upends-fertilizer-markets/)<em>Geopolitical Monitor</em>, April 7, 2026.
+[Belarus Profits as Iran War Upends Fertilizer Markets.](https://www.geopoliticalmonitor.com/belarus-wins-as-iran-war-upends-fertilizer-markets/) <em>Geopolitical Monitor</em>, April 7, 2026.
 
 [The U.S.-Belarus prisoners-for-potash deal, explained.](https://goodauthority.org/news/the-us-belarus-prisoners-for-potash-deal-explained/?fbclid=IwY2xjawOujEVleHRuA2FlbQIxMQBicmlkETFmNFNjTHlsTDBTV1NnTDFUc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHpaIZrZGma9HZsyaeOlm8pKTIZ7JxcFKqYmuWvoHTYuMWC8Oj7etGUK7CyXa_aem_qxxR_p4c8fPNRPlaPKe-xw) <em>Good Authority (formerly TMC)</em>, December 16, 2025.
 
