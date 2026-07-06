@@ -6,7 +6,11 @@ permalink: /publications/
 
 <strong>Peer-Reviewed Articles and Book Chapters</strong>
 
-Kulakevich, T. (forthcoming). "Redefining the Political: Diaspora, Culture, and Resistance." In K. Lozka (ed.) ’Defiant bodies’: Interpreting violence, agency, and resistance in Belarus. Ibidem Press.
+Kulakevich, T. (under review). "Regime-Security Thresholds: Political Prisoners and Authoritarian Bargaining in Belarus." <em>East European Politics and Societies, and Cultures.<em>
+
+Kulakevich, T. (under review). "Hedging Without Exit: Belarus, Dependency, and Network Coercion." <em>East European Politics.</em>
+
+Kulakevich, T. (forthcoming). "Redefining the Political: Diaspora, Culture, and Resistance." In K. Lozka (ed.) <em>’Defiant bodies’: Interpreting violence, agency, and resistance in Belarus.</em> Ibidem Press.
 
 Kulakevich, T. and Saifullayeu, A. 2025. ["National Minorities in Belarus and the Government Attitudes Towards Them."](https://www.researchgate.net/publication/397217148_National_Minorities_in_Belarus_and_the_Government's_Attitudes_Toward_Them) In A. Kazharski (ed.) <em> The Routledge Handbook of Contemporary Belarus. </em>Routledge.
 
