@@ -58,6 +58,8 @@ Kulakevich, T., 2014. ["Twenty Years in the Making: Understanding the Difficulty
 
 <strong>Book Reviews</strong> <!--, Translations, Editing</strong>-->
 
+Kulakevich, T. (forthcoming). Review of P. Rudkouski and P. Lichacz's "Authoritarianism under Threat: The Belarusian Political System in Comparative Perspective." <em>Free Belarus Journal</em>.
+
 Kulakevich, T. 2023. Review of P. Hansbury’s ["Belarus in Crisis: From Domestic Unrest to the Russia-Ukraine War”](https://doi.org/10.1111/russ.12542). <em>The Russian Review,</em> 82(4): 787-788.
 
 Kulakevich, T. 2022. Review of R. Hervouet’s ["A Taste for Oppression: Political Ethnography of Everyday Life in Belarus”.](https://www.tandfonline.com/doi/full/10.1080/00085006.2022.2027113?needAccess=true) <em>Canadian Slavonic Papers,</em> 64(1): 120-121.
