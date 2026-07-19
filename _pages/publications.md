@@ -8,7 +8,7 @@ permalink: /publications/
 
 Kulakevich, T. (under review). "Regime-Security Thresholds: Political Prisoners and Authoritarian Bargaining in Belarus." <em>East European Politics and Societies, and Cultures.</em>
 
-Kulakevich, T. (under review). "Hedging Without Exit: Belarus, Dependency, and Network Coercion." <em>East European Politics.</em>
+Kulakevich, T. (under review). "Hedging Without Exit: Belarus, Dependency, and Network Coercion." <em>Europe-Asia Studies.</em>
 
 Kulakevich, T. (forthcoming). "Redefining the Political: Diaspora, Culture, and Resistance." In K. Lozka (ed.) <em>’Defiant bodies’: Interpreting violence, agency, and resistance in Belarus.</em> Ibidem Press.
 
