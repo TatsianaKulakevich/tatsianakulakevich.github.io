@@ -30,14 +30,13 @@ Publications
 
 Kulakevich, T. (under review). "Regime-Security Thresholds: Political Prisoners and Authoritarian Bargaining in Belarus." <em>East European Politics and Societies, and Cultures.</em>
 
-Kulakevich, T. (under review). "Hedging Without Exit: Belarus, Dependency, and Network Coercion." <em>Europe-Asia Studies.</em>
-
+Kulakevich, T. (under review). "Hedging Without Exit: Belarus, Dependency, and Network Coercion." <em>Problems of Post-Commmunism.</em>
 
 Kulakevich, T. (forthcoming). "Redefining the Political: Diaspora, Culture, and Resistance." In K. Lozka (ed.) ’Defiant bodies’: Interpreting violence, agency, and resistance in Belarus. Ibidem Press.
 
-Kulakevich, T. and Saifullayeu, A. 2025. ["National Minorities in Belarus and the Government Attitudes Towards Them."](https://www.researchgate.net/publication/397217148_National_Minorities_in_Belarus_and_the_Government's_Attitudes_Toward_Them) In A. Kazharski (ed.) <em> The Routledge Handbook of Contemporary Belarus. </em>Routledge.
+Kulakevich, T. 2026. ["The War in Ukraine: Deterrent Effect of Weaponized Interdependence."](https://shorturl.at/tmUs0) <em>Nationalities Papers.</em> 54(4): 707-719.
 
-Kulakevich, T. (published online Oct.31, 2024). ["The War in Ukraine: Deterrent Effect of Weaponized Interdependence."](https://shorturl.at/tmUs0) <em>Nationalities Papers.</em>
+Kulakevich, T. and Saifullayeu, A. 2025. ["National Minorities in Belarus and the Government Attitudes Towards Them."](https://www.researchgate.net/publication/397217148_National_Minorities_in_Belarus_and_the_Government's_Attitudes_Toward_Them) In A. Kazharski (ed.) <em> The Routledge Handbook of Contemporary Belarus. </em>Routledge.
 
 Kulakevich, T. and Kubik, J. 2023. ["Anti-authoritarian learning: an examination of the prospects for democratization in Belarus based on a study of Polish Solidarity."](https://www.cambridge.org/core/journals/nationalities-papers/article/antiauthoritarian-learning-prospects-for-democratization-in-belarus-based-on-a-study-of-polish-solidarity/0B05C923250A86C3E8AAB7E27F3542FA) <em>Nationalities Papers.</em> 51(4): 823-837. (Shortlisted for the 2022 Routledge Area Studies Impact Award).
 
